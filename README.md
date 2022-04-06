@@ -2,6 +2,6 @@
 
 Las versiones de JUnit5 utilizadas para el análisis con SourceMeter son:
 
-** Version 5.0.0
-** Version 5.0.1
-** Version 5.0.2
+- Version 5.0.0: [https://github.com/junit-team/junit5/releases/tag/r5.0.0]()
+- Version 5.0.1: [https://github.com/junit-team/junit5/releases/tag/r5.0.1]()
+- Version 5.0.2: [https://github.com/junit-team/junit5/releases/tag/r5.0.2]()
