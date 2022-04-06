@@ -1,0 +1,725 @@
+{
+	"header" : 
+	{
+		"AndroidHunter-mode" : "inactive",
+		"DuplicatedCodeFinder-mode" : "full",
+		"FaultHunter-mode" : "inactive",
+		"FindBugs2Graph-mode" : "full",
+		"LIM2Metrics-mode" : "full",
+		"PMD2Graph-mode" : "full",
+		"RTEHunter-mode" : "inactive",
+		"asg" : "java"
+	},
+	"nodes" : 
+	[
+		{
+			"attributes" : 
+			[
+				{
+					"context" : "attribute",
+					"name" : "Name",
+					"type" : "string",
+					"value" : "<System>"
+				},
+				{
+					"context" : "attribute",
+					"name" : "LongName",
+					"type" : "string",
+					"value" : "<System>"
+				},
+				{
+					"context" : "attribute",
+					"name" : "ChangesetID",
+					"type" : "string",
+					"value" : ""
+				},
+				{
+					"context" : "attribute",
+					"name" : "AnalysisTime",
+					"type" : "string",
+					"value" : "now"
+				},
+				{
+					"context" : "metric",
+					"name" : "CCL",
+					"type" : "int",
+					"value" : 137
+				},
+				{
+					"context" : "metric",
+					"name" : "CCO",
+					"type" : "int",
+					"value" : 442
+				},
+				{
+					"context" : "metric",
+					"name" : "CEE",
+					"type" : "float",
+					"value" : 7040.3623046875
+				},
+				{
+					"context" : "metric",
+					"name" : "CI",
+					"type" : "int",
+					"value" : 329
+				},
+				{
+					"context" : "metric",
+					"name" : "LDC",
+					"type" : "int",
+					"value" : 4187
+				},
+				{
+					"context" : "metric",
+					"name" : "LLDC",
+					"type" : "int",
+					"value" : 3542
+				},
+				{
+					"context" : "metric",
+					"name" : "CC",
+					"type" : "float",
+					"value" : 0.083028607070446014
+				},
+				{
+					"context" : "metric",
+					"name" : "CLLC",
+					"type" : "float",
+					"value" : 0.080982215702533722
+				},
+				{
+					"context" : "metric",
+					"name" : "CLC",
+					"type" : "float",
+					"value" : 0.056552041321992874
+				},
+				{
+					"context" : "metric",
+					"name" : "NCR",
+					"type" : "float",
+					"value" : 0.060632303357124329
+				},
+				{
+					"context" : "metric",
+					"name" : "CR",
+					"type" : "float",
+					"value" : 0.028175678104162216
+				},
+				{
+					"context" : "metric",
+					"name" : "CEG",
+					"type" : "float",
+					"value" : 0.31802985072135925
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_TMSI",
+					"type" : "int",
+					"value" : 115
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_DP",
+					"type" : "int",
+					"value" : 497
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_JUTCTMA",
+					"type" : "int",
+					"value" : 880
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_JUASIM",
+					"type" : "int",
+					"value" : 1213
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UASIOAT",
+					"type" : "int",
+					"value" : 12
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_TCWTC",
+					"type" : "int",
+					"value" : 14
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_JUTSIA",
+					"type" : "int",
+					"value" : 216
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_EN",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UEM",
+					"type" : "int",
+					"value" : 252
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UA",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ATRET",
+					"type" : "int",
+					"value" : 22
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_SiDTE",
+					"type" : "int",
+					"value" : 350
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ADL",
+					"type" : "int",
+					"value" : 314
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_IF",
+					"type" : "int",
+					"value" : 14
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_LFIC",
+					"type" : "int",
+					"value" : 17
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UnM",
+					"type" : "int",
+					"value" : 6
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_CWOPCSBF",
+					"type" : "int",
+					"value" : 35
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ACT",
+					"type" : "int",
+					"value" : 30
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UV",
+					"type" : "int",
+					"value" : 47
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_FDSBASOC",
+					"type" : "int",
+					"value" : 89
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_CIS",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ARP",
+					"type" : "int",
+					"value" : 6
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_PST",
+					"type" : "int",
+					"value" : 3
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ACWAM",
+					"type" : "int",
+					"value" : 10
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_AFNMMN",
+					"type" : "int",
+					"value" : 17
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_DNEJLT",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UUINL",
+					"type" : "int",
+					"value" : 22
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_StI",
+					"type" : "int",
+					"value" : 14
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_OBEAH",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UBA",
+					"type" : "int",
+					"value" : 17
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_AICICC",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UPM",
+					"type" : "int",
+					"value" : 5
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ACGE",
+					"type" : "int",
+					"value" : 18
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_DTC",
+					"type" : "int",
+					"value" : 5
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_SMN",
+					"type" : "int",
+					"value" : 20
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UFQN",
+					"type" : "int",
+					"value" : 25
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ABSALIL",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_SBR",
+					"type" : "int",
+					"value" : 3
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_AbCWAM",
+					"type" : "int",
+					"value" : 3
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_EMIACSBA",
+					"type" : "int",
+					"value" : 3
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ARE",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_RFI",
+					"type" : "int",
+					"value" : 49
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_FFCBS",
+					"type" : "int",
+					"value" : 3
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_DC",
+					"type" : "int",
+					"value" : 3
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_SCN",
+					"type" : "int",
+					"value" : 16
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_CSB",
+					"type" : "int",
+					"value" : 19
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_AUEIS",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UATIOAE",
+					"type" : "int",
+					"value" : 4
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_AISD",
+					"type" : "int",
+					"value" : 5
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ULBR",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ECB",
+					"type" : "int",
+					"value" : 5
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ClR",
+					"type" : "int",
+					"value" : 5
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_CII",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_USAI",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UEC",
+					"type" : "int",
+					"value" : 8
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_DBI",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_NSI",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_NTSS",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UOM",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_CMRTMMCN",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_CMMBP",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UAEIOAT",
+					"type" : "int",
+					"value" : 4
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_SP",
+					"type" : "int",
+					"value" : 11
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_UCIE",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_ISB",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metric",
+					"name" : "PMD_NP",
+					"type" : "int",
+					"value" : 2
+				},
+				{
+					"context" : "metricgroup",
+					"name" : "Code Style Rules",
+					"type" : "int",
+					"value" : 818
+				},
+				{
+					"context" : "metricgroup",
+					"name" : "Best Practice Rules",
+					"type" : "int",
+					"value" : 2439
+				},
+				{
+					"context" : "metricgroup",
+					"name" : "Error Prone Rules",
+					"type" : "int",
+					"value" : 418
+				},
+				{
+					"context" : "metricgroup",
+					"name" : "Documentation Rules",
+					"type" : "int",
+					"value" : 260
+				},
+				{
+					"context" : "metricgroup",
+					"name" : "Design Rules",
+					"type" : "int",
+					"value" : 457
+				},
+				{
+					"context" : "metricgroup",
+					"name" : "Performance Rules",
+					"type" : "int",
+					"value" : 65
+				},
+				{
+					"context" : "metricgroup",
+					"name" : "Multithreading Rules",
+					"type" : "int",
+					"value" : 1
+				},
+				{
+					"context" : "metric",
+					"name" : "TLLOC",
+					"type" : "int",
+					"value" : 43738
+				},
+				{
+					"context" : "metric",
+					"name" : "TLOC",
+					"type" : "int",
+					"value" : 74038
+				},
+				{
+					"context" : "metric",
+					"name" : "TAD",
+					"type" : "float",
+					"value" : 0.5983772873878479
+				},
+				{
+					"context" : "metric",
+					"name" : "TNA",
+					"type" : "int",
+					"value" : 925
+				},
+				{
+					"context" : "metric",
+					"name" : "TNCL",
+					"type" : "int",
+					"value" : 1045
+				},
+				{
+					"context" : "metric",
+					"name" : "TNEN",
+					"type" : "int",
+					"value" : 13
+				},
+				{
+					"context" : "metric",
+					"name" : "TNFI",
+					"type" : "int",
+					"value" : 649
+				},
+				{
+					"context" : "metric",
+					"name" : "TNG",
+					"type" : "int",
+					"value" : 554
+				},
+				{
+					"context" : "metric",
+					"name" : "TNIN",
+					"type" : "int",
+					"value" : 102
+				},
+				{
+					"context" : "metric",
+					"name" : "TNM",
+					"type" : "int",
+					"value" : 5234
+				},
+				{
+					"context" : "metric",
+					"name" : "TNOS",
+					"type" : "int",
+					"value" : 13640
+				},
+				{
+					"context" : "metric",
+					"name" : "TNPA",
+					"type" : "int",
+					"value" : 91
+				},
+				{
+					"context" : "metric",
+					"name" : "TNPCL",
+					"type" : "int",
+					"value" : 253
+				},
+				{
+					"context" : "metric",
+					"name" : "TNPEN",
+					"type" : "int",
+					"value" : 9
+				},
+				{
+					"context" : "metric",
+					"name" : "TNPIN",
+					"type" : "int",
+					"value" : 64
+				},
+				{
+					"context" : "metric",
+					"name" : "TNPKG",
+					"type" : "int",
+					"value" : 73
+				},
+				{
+					"context" : "metric",
+					"name" : "TNPM",
+					"type" : "int",
+					"value" : 1695
+				},
+				{
+					"context" : "metric",
+					"name" : "TNS",
+					"type" : "int",
+					"value" : 39
+				},
+				{
+					"context" : "metric",
+					"name" : "TPDA",
+					"type" : "int",
+					"value" : 885
+				},
+				{
+					"context" : "metric",
+					"name" : "TPUA",
+					"type" : "int",
+					"value" : 594
+				},
+				{
+					"context" : "metric",
+					"name" : "TCLOC",
+					"type" : "int",
+					"value" : 18115
+				},
+				{
+					"context" : "metric",
+					"name" : "TNDI",
+					"type" : "int",
+					"value" : 237
+				},
+				{
+					"context" : "metric",
+					"name" : "TCD",
+					"type" : "float",
+					"value" : 0.29287180304527283
+				},
+				{
+					"context" : "metric",
+					"name" : "WarningBlocker",
+					"type" : "int",
+					"value" : 0
+				},
+				{
+					"context" : "metric",
+					"name" : "WarningCritical",
+					"type" : "int",
+					"value" : 35
+				},
+				{
+					"context" : "metric",
+					"name" : "WarningMajor",
+					"type" : "int",
+					"value" : 1099
+				},
+				{
+					"context" : "metric",
+					"name" : "WarningMinor",
+					"type" : "int",
+					"value" : 3324
+				},
+				{
+					"context" : "metric",
+					"name" : "WarningInfo",
+					"type" : "int",
+					"value" : 0
+				}
+			],
+			"name" : "L102",
+			"type" : "Component"
+		}
+	]
+}

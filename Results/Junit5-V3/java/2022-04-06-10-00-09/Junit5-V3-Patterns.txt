@@ -1,0 +1,1042 @@
+Total matches: 259
+Blob matches: 6
+LongFunction matches: 10
+LongParamSize matches: 1
+featureEnvy matches: 9
+shotgun matches: 233
+
+Pattern 'LongFunction' has been found on 'void assertArrayElementsEqual(Object expected, Object actual, Deque<Integer> indexes, Supplier<String> messageSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:356, Col:2 - Ln:397, Col:3]
+Role 'longFunc' fits on 'void assertArrayElementsEqual(Object expected, Object actual, Deque<Integer> indexes, Supplier<String> messageSupplier)' (nodeid '1629'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:356, Col:2 - Ln:397, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertArraysNotNull(Object expected, Object actual, Deque<Integer> indexes, Supplier<String> messageSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:399, Col:2 - Ln:408, Col:3]
+Role 'shotgunMethod' fits on 'void assertArraysNotNull(Object expected, Object actual, Deque<Integer> indexes, Supplier<String> messageSupplier)' (nodeid '1565'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:399, Col:2 - Ln:408, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertArraysHaveSameLength(int expected, int actual, Deque<Integer> indexes, Supplier<String> messageSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:418, Col:2 - Ln:427, Col:3]
+Role 'shotgunMethod' fits on 'void assertArraysHaveSameLength(int expected, int actual, Deque<Integer> indexes, Supplier<String> messageSupplier)' (nodeid '1567'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:418, Col:2 - Ln:427, Col:3]
+
+Pattern 'shotgun' has been found on 'void failArraysNotEqual(Object expected, Object actual, Deque<Integer> indexes, Supplier<String> messageSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:429, Col:2 - Ln:435, Col:3]
+Role 'shotgunMethod' fits on 'void failArraysNotEqual(Object expected, Object actual, Deque<Integer> indexes, Supplier<String> messageSupplier)' (nodeid '1569'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:429, Col:2 - Ln:435, Col:3]
+
+Pattern 'shotgun' has been found on 'Deque<Integer> nullSafeIndexes(Deque<Integer> indexes, int newIndex)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:437, Col:2 - Ln:441, Col:3]
+Role 'shotgunMethod' fits on 'Deque<Integer> nullSafeIndexes(Deque<Integer> indexes, int newIndex)' (nodeid '1571'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java [Ln:437, Col:2 - Ln:441, Col:3]
+
+Pattern 'shotgun' has been found on 'void failNotEqual(Object expected, Object actual, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertEquals.java [Ln:176, Col:2 - Ln:178, Col:3]
+Role 'shotgunMethod' fits on 'void failNotEqual(Object expected, Object actual, String message)' (nodeid '1692'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertEquals.java [Ln:176, Col:2 - Ln:178, Col:3]
+
+Pattern 'Blob' has been found on 'Assertions'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:39, Col:1 - Ln:1416, Col:2]
+Role 'BlobClass' fits on 'Assertions' (nodeid '1869'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:39, Col:1 - Ln:1416, Col:2]
+
+Pattern 'shotgun' has been found on '<V extends Object> V fail(String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:56, Col:2 - Ln:59, Col:3]
+Role 'shotgunMethod' fits on '<V extends Object> V fail(String message)' (nodeid '586'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:56, Col:2 - Ln:59, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertTrue(boolean condition)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:109, Col:2 - Ln:111, Col:3]
+Role 'shotgunMethod' fits on 'void assertTrue(boolean condition)' (nodeid '185'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:109, Col:2 - Ln:111, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertTrue(boolean condition, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:140, Col:2 - Ln:142, Col:3]
+Role 'shotgunMethod' fits on 'void assertTrue(boolean condition, String message)' (nodeid '1926'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:140, Col:2 - Ln:142, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertFalse(boolean condition)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:157, Col:2 - Ln:159, Col:3]
+Role 'shotgunMethod' fits on 'void assertFalse(boolean condition)' (nodeid '309'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:157, Col:2 - Ln:159, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertFalse(boolean condition, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:165, Col:2 - Ln:167, Col:3]
+Role 'shotgunMethod' fits on 'void assertFalse(boolean condition, String message)' (nodeid '1942'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:165, Col:2 - Ln:167, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertNull(Object actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:205, Col:2 - Ln:207, Col:3]
+Role 'shotgunMethod' fits on 'void assertNull(Object actual)' (nodeid '1965'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:205, Col:2 - Ln:207, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertNotNull(Object actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:230, Col:2 - Ln:232, Col:3]
+Role 'shotgunMethod' fits on 'void assertNotNull(Object actual)' (nodeid '182'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:230, Col:2 - Ln:232, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertEquals(int expected, int actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:299, Col:2 - Ln:301, Col:3]
+Role 'shotgunMethod' fits on 'void assertEquals(int expected, int actual)' (nodeid '158'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:299, Col:2 - Ln:301, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertEquals(int expected, int actual, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:306, Col:2 - Ln:308, Col:3]
+Role 'shotgunMethod' fits on 'void assertEquals(int expected, int actual, String message)' (nodeid '160'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:306, Col:2 - Ln:308, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertEquals(long expected, long actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:321, Col:2 - Ln:323, Col:3]
+Role 'shotgunMethod' fits on 'void assertEquals(long expected, long actual)' (nodeid '2046'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:321, Col:2 - Ln:323, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertEquals(long expected, long actual, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:328, Col:2 - Ln:330, Col:3]
+Role 'shotgunMethod' fits on 'void assertEquals(long expected, long actual, String message)' (nodeid '2051'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:328, Col:2 - Ln:330, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertEquals(Object expected, Object actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:480, Col:2 - Ln:482, Col:3]
+Role 'shotgunMethod' fits on 'void assertEquals(Object expected, Object actual)' (nodeid '169'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:480, Col:2 - Ln:482, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertEquals(Object expected, Object actual, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:491, Col:2 - Ln:493, Col:3]
+Role 'shotgunMethod' fits on 'void assertEquals(Object expected, Object actual, String message)' (nodeid '787'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:491, Col:2 - Ln:493, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertArrayEquals(Object[] expected, Object[] actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:791, Col:2 - Ln:793, Col:3]
+Role 'shotgunMethod' fits on 'void assertArrayEquals(Object[] expected, Object[] actual)' (nodeid '2329'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:791, Col:2 - Ln:793, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertIterableEquals(Iterable<?> expected, Iterable<?> actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:843, Col:2 - Ln:845, Col:3]
+Role 'shotgunMethod' fits on 'void assertIterableEquals(Iterable<?> expected, Iterable<?> actual)' (nodeid '2345'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:843, Col:2 - Ln:845, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertLinesMatch(List<String> expectedLines, List<String> actualLines)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:937, Col:2 - Ln:939, Col:3]
+Role 'shotgunMethod' fits on 'void assertLinesMatch(List<String> expectedLines, List<String> actualLines)' (nodeid '2369'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:937, Col:2 - Ln:939, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertNotEquals(Object unexpected, Object actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:949, Col:2 - Ln:951, Col:3]
+Role 'shotgunMethod' fits on 'void assertNotEquals(Object unexpected, Object actual)' (nodeid '315'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:949, Col:2 - Ln:951, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertSame(Object expected, Object actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:980, Col:2 - Ln:982, Col:3]
+Role 'shotgunMethod' fits on 'void assertSame(Object expected, Object actual)' (nodeid '2396'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:980, Col:2 - Ln:982, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertAll(Executable[] executables)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:1038, Col:2 - Ln:1040, Col:3]
+Role 'shotgunMethod' fits on 'void assertAll(Executable[] executables)' (nodeid '2438'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:1038, Col:2 - Ln:1040, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertAll(String heading, Executable[] executables)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:1068, Col:2 - Ln:1070, Col:3]
+Role 'shotgunMethod' fits on 'void assertAll(String heading, Executable[] executables)' (nodeid '166'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:1068, Col:2 - Ln:1070, Col:3]
+
+Pattern 'shotgun' has been found on '<T extends Throwable> T assertThrows(Class<T> expectedType, Executable executable)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:1107, Col:2 - Ln:1109, Col:3]
+Role 'shotgunMethod' fits on '<T extends Throwable> T assertThrows(Class<T> expectedType, Executable executable)' (nodeid '199'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\Assertions.java [Ln:1107, Col:2 - Ln:1109, Col:3]
+
+Pattern 'shotgun' has been found on 'void fail(String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertionUtils.java [Ln:35, Col:2 - Ln:37, Col:3]
+Role 'shotgunMethod' fits on 'void fail(String message)' (nodeid '1651'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertionUtils.java [Ln:35, Col:2 - Ln:37, Col:3]
+
+Pattern 'shotgun' has been found on 'String nullSafeGet(Supplier<String> messageSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertionUtils.java [Ln:55, Col:2 - Ln:57, Col:3]
+Role 'shotgunMethod' fits on 'String nullSafeGet(Supplier<String> messageSupplier)' (nodeid '1655'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertionUtils.java [Ln:55, Col:2 - Ln:57, Col:3]
+
+Pattern 'shotgun' has been found on 'String buildPrefix(String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertionUtils.java [Ln:59, Col:2 - Ln:61, Col:3]
+Role 'shotgunMethod' fits on 'String buildPrefix(String message)' (nodeid '1653'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertionUtils.java [Ln:59, Col:2 - Ln:61, Col:3]
+
+Pattern 'LongFunction' has been found on 'void assertLinesMatchWithFastForward(List<String> expectedLines, List<String> actualLines)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertLinesMatch.java [Ln:68, Col:2 - Ln:128, Col:3]
+Role 'longFunc' fits on 'void assertLinesMatchWithFastForward(List<String> expectedLines, List<String> actualLines)' (nodeid '2783'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertLinesMatch.java [Ln:68, Col:2 - Ln:128, Col:3]
+
+Pattern 'shotgun' has been found on 'int parseFastForwardLimit(String fastForwardLine)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertLinesMatch.java [Ln:155, Col:2 - Ln:165, Col:3]
+Role 'shotgunMethod' fits on 'int parseFastForwardLimit(String fastForwardLine)' (nodeid '2801'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertLinesMatch.java [Ln:155, Col:2 - Ln:165, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean matches(String expectedLine, String actualLine)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertLinesMatch.java [Ln:167, Col:2 - Ln:177, Col:3]
+Role 'shotgunMethod' fits on 'boolean matches(String expectedLine, String actualLine)' (nodeid '2779'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertLinesMatch.java [Ln:167, Col:2 - Ln:177, Col:3]
+
+Pattern 'shotgun' has been found on 'DynamicTest dynamicTest(String displayName, Executable executable)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\DynamicTest.java [Ln:60, Col:2 - Ln:62, Col:3]
+Role 'shotgunMethod' fits on 'DynamicTest dynamicTest(String displayName, Executable executable)' (nodeid '403'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\DynamicTest.java [Ln:60, Col:2 - Ln:62, Col:3]
+
+Pattern 'shotgun' has been found on 'Class<?> getRequiredTestClass()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:137, Col:2 - Ln:140, Col:3]
+Role 'shotgunMethod' fits on 'Class<?> getRequiredTestClass()' (nodeid '3405'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:137, Col:2 - Ln:140, Col:3]
+
+Pattern 'shotgun' has been found on 'Optional<Object> getTestInstance()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:150, Col:2 - Ln:150, Col:37]
+Role 'shotgunMethod' fits on 'Optional<Object> getTestInstance()' (nodeid '3408'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:150, Col:2 - Ln:150, Col:37]
+
+Pattern 'shotgun' has been found on 'Object getRequiredTestInstance()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:163, Col:2 - Ln:166, Col:3]
+Role 'shotgunMethod' fits on 'Object getRequiredTestInstance()' (nodeid '3413'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:163, Col:2 - Ln:166, Col:3]
+
+Pattern 'shotgun' has been found on 'Optional<Method> getTestMethod()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:175, Col:2 - Ln:175, Col:35]
+Role 'shotgunMethod' fits on 'Optional<Method> getTestMethod()' (nodeid '3416'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:175, Col:2 - Ln:175, Col:35]
+
+Pattern 'shotgun' has been found on 'Method getRequiredTestMethod()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:188, Col:2 - Ln:191, Col:3]
+Role 'shotgunMethod' fits on 'Method getRequiredTestMethod()' (nodeid '1077'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:188, Col:2 - Ln:191, Col:3]
+
+Pattern 'shotgun' has been found on 'Namespace create(Object[] parts)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:411, Col:3 - Ln:415, Col:4]
+Role 'shotgunMethod' fits on 'Namespace create(Object[] parts)' (nodeid '1099'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java [Ln:411, Col:3 - Ln:415, Col:4]
+
+Pattern 'shotgun' has been found on 'Parameter getParameter()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ParameterContext.java [Ln:45, Col:2 - Ln:45, Col:27]
+Role 'shotgunMethod' fits on 'Parameter getParameter()' (nodeid '1051'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ParameterContext.java [Ln:45, Col:2 - Ln:45, Col:27]
+
+Pattern 'shotgun' has been found on 'void execute()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\function\Executable.java [Ln:46, Col:2 - Ln:46, Col:34]
+Role 'shotgunMethod' fits on 'void execute()' (nodeid '1323'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\function\Executable.java [Ln:46, Col:2 - Ln:46, Col:34]
+
+Pattern 'shotgun' has been found on 'String getDisplayName()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\TestInfo.java [Ln:82, Col:2 - Ln:82, Col:26]
+Role 'shotgunMethod' fits on 'String getDisplayName()' (nodeid '850'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\TestInfo.java [Ln:82, Col:2 - Ln:82, Col:26]
+
+Pattern 'shotgun' has been found on 'Optional<Method> getTestMethod()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\TestInfo.java [Ln:100, Col:2 - Ln:100, Col:35]
+Role 'shotgunMethod' fits on 'Optional<Method> getTestMethod()' (nodeid '835'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-api\src\main\java\org\junit\jupiter\api\TestInfo.java [Ln:100, Col:2 - Ln:100, Col:35]
+
+Pattern 'Blob' has been found on 'AssertArrayEqualsAssertionsTests'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertArrayEqualsAssertionsTests.java [Ln:26, Col:1 - Ln:1955, Col:2]
+Role 'BlobClass' fits on 'AssertArrayEqualsAssertionsTests' (nodeid '3883'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertArrayEqualsAssertionsTests.java [Ln:26, Col:1 - Ln:1955, Col:2]
+
+Pattern 'shotgun' has been found on 'void expectAssertionFailedError()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:27, Col:2 - Ln:29, Col:3]
+Role 'shotgunMethod' fits on 'void expectAssertionFailedError()' (nodeid '3897'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:27, Col:2 - Ln:29, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertMessageEquals(Throwable ex, String msg)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:31, Col:2 - Ln:35, Col:3]
+Role 'shotgunMethod' fits on 'void assertMessageEquals(Throwable ex, String msg)' (nodeid '3815'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:31, Col:2 - Ln:35, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertMessageStartsWith(Throwable ex, String msg)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:37, Col:2 - Ln:42, Col:3]
+Role 'shotgunMethod' fits on 'void assertMessageStartsWith(Throwable ex, String msg)' (nodeid '3901'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:37, Col:2 - Ln:42, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertMessageEndsWith(Throwable ex, String msg)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:44, Col:2 - Ln:49, Col:3]
+Role 'shotgunMethod' fits on 'void assertMessageEndsWith(Throwable ex, String msg)' (nodeid '3903'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:44, Col:2 - Ln:49, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertMessageContains(Throwable ex, String msg)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:51, Col:2 - Ln:56, Col:3]
+Role 'shotgunMethod' fits on 'void assertMessageContains(Throwable ex, String msg)' (nodeid '4287'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:51, Col:2 - Ln:56, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertExpectedAndActualValues(AssertionFailedError ex, Object expected, Object actual)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:58, Col:2 - Ln:68, Col:3]
+Role 'shotgunMethod' fits on 'void assertExpectedAndActualValues(AssertionFailedError ex, Object expected, Object actual)' (nodeid '4126'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionTestUtils.java [Ln:58, Col:2 - Ln:68, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertAssumptionFailure(String msg, Executable executable)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java [Ln:227, Col:2 - Ln:236, Col:3]
+Role 'shotgunMethod' fits on 'void assertAssumptionFailure(String msg, Executable executable)' (nodeid '4710'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java [Ln:227, Col:2 - Ln:236, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Object> listOf(Object[] objects)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\IterableFactory.java [Ln:20, Col:2 - Ln:22, Col:3]
+Role 'shotgunMethod' fits on 'List<Object> listOf(Object[] objects)' (nodeid '4313'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\IterableFactory.java [Ln:20, Col:2 - Ln:22, Col:3]
+
+Pattern 'shotgun' has been found on 'Set<Object> setOf(Object[] objects)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\IterableFactory.java [Ln:24, Col:2 - Ln:26, Col:3]
+Role 'shotgunMethod' fits on 'Set<Object> setOf(Object[] objects)' (nodeid '4319'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\IterableFactory.java [Ln:24, Col:2 - Ln:26, Col:3]
+
+Pattern 'shotgun' has been found on 'T getTestDescriptor()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\AbstractExtensionContext.java [Ln:83, Col:2 - Ln:85, Col:3]
+Role 'shotgunMethod' fits on 'T getTestDescriptor()' (nodeid '4955'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\AbstractExtensionContext.java [Ln:83, Col:2 - Ln:85, Col:3]
+
+Pattern 'shotgun' has been found on 'ClassTestDescriptor(UniqueId uniqueId, Class<?> testClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\ClassTestDescriptor.java [Ln:74, Col:2 - Ln:76, Col:3]
+Role 'shotgunMethod' fits on 'ClassTestDescriptor(UniqueId uniqueId, Class<?> testClass)' (nodeid '5038'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\ClassTestDescriptor.java [Ln:74, Col:2 - Ln:76, Col:3]
+
+Pattern 'shotgun' has been found on 'Class<?> getTestClass()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\ClassTestDescriptor.java [Ln:94, Col:2 - Ln:96, Col:3]
+Role 'shotgunMethod' fits on 'Class<?> getTestClass()' (nodeid '5012'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\ClassTestDescriptor.java [Ln:94, Col:2 - Ln:96, Col:3]
+
+Pattern 'shotgun' has been found on 'Method getTestMethod()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\MethodBasedTestDescriptor.java [Ln:54, Col:2 - Ln:56, Col:3]
+Role 'shotgunMethod' fits on 'Method getTestMethod()' (nodeid '5556'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\MethodBasedTestDescriptor.java [Ln:54, Col:2 - Ln:56, Col:3]
+
+Pattern 'shotgun' has been found on 'TestMethodTestDescriptor(UniqueId uniqueId, Class<?> testClass, Method testMethod)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\TestMethodTestDescriptor.java [Ln:62, Col:2 - Ln:64, Col:3]
+Role 'shotgunMethod' fits on 'TestMethodTestDescriptor(UniqueId uniqueId, Class<?> testClass, Method testMethod)' (nodeid '5622'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\descriptor\TestMethodTestDescriptor.java [Ln:62, Col:2 - Ln:64, Col:3]
+
+Pattern 'shotgun' has been found on 'void resolveSelectors(EngineDiscoveryRequest request, TestDescriptor engineDescriptor)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolver.java [Ln:46, Col:2 - Ln:68, Col:3]
+Role 'shotgunMethod' fits on 'void resolveSelectors(EngineDiscoveryRequest request, TestDescriptor engineDescriptor)' (nodeid '6394'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolver.java [Ln:46, Col:2 - Ln:68, Col:3]
+
+Pattern 'shotgun' has been found on 'List<UniqueId> uniqueIds()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java [Ln:556, Col:2 - Ln:558, Col:3]
+Role 'shotgunMethod' fits on 'List<UniqueId> uniqueIds()' (nodeid '7131'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java [Ln:556, Col:2 - Ln:558, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueId uniqueIdForClass(Class<?> clazz)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\JupiterUniqueIdBuilder.java [Ln:26, Col:2 - Ln:33, Col:3]
+Role 'shotgunMethod' fits on 'UniqueId uniqueIdForClass(Class<?> clazz)' (nodeid '7133'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\JupiterUniqueIdBuilder.java [Ln:26, Col:2 - Ln:33, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueId uniqueIdForMethod(Class<?> clazz, String methodPart)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\JupiterUniqueIdBuilder.java [Ln:39, Col:2 - Ln:41, Col:3]
+Role 'shotgunMethod' fits on 'UniqueId uniqueIdForMethod(Class<?> clazz, String methodPart)' (nodeid '7135'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\JupiterUniqueIdBuilder.java [Ln:39, Col:2 - Ln:41, Col:3]
+
+Pattern 'shotgun' has been found on 'Object get(Namespace namespace, Object key)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\ExtensionValuesStore.java [Ln:46, Col:2 - Ln:49, Col:3]
+Role 'shotgunMethod' fits on 'Object get(Namespace namespace, Object key)' (nodeid '7645'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\ExtensionValuesStore.java [Ln:46, Col:2 - Ln:49, Col:3]
+
+Pattern 'shotgun' has been found on 'void put(Namespace namespace, Object key, Object value)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\ExtensionValuesStore.java [Ln:75, Col:2 - Ln:77, Col:3]
+Role 'shotgunMethod' fits on 'void put(Namespace namespace, Object key, Object value)' (nodeid '7693'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\ExtensionValuesStore.java [Ln:75, Col:2 - Ln:77, Col:3]
+
+Pattern 'shotgun' has been found on 'ExtensionRegistry getExtensionRegistry()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\JupiterEngineExecutionContext.java [Ln:55, Col:2 - Ln:57, Col:3]
+Role 'shotgunMethod' fits on 'ExtensionRegistry getExtensionRegistry()' (nodeid '5109'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\JupiterEngineExecutionContext.java [Ln:55, Col:2 - Ln:57, Col:3]
+
+Pattern 'shotgun' has been found on 'ExtensionContext getExtensionContext()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\JupiterEngineExecutionContext.java [Ln:59, Col:2 - Ln:61, Col:3]
+Role 'shotgunMethod' fits on 'ExtensionContext getExtensionContext()' (nodeid '5120'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\JupiterEngineExecutionContext.java [Ln:59, Col:2 - Ln:61, Col:3]
+
+Pattern 'shotgun' has been found on 'ThrowableCollector getThrowableCollector()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\JupiterEngineExecutionContext.java [Ln:63, Col:2 - Ln:65, Col:3]
+Role 'shotgunMethod' fits on 'ThrowableCollector getThrowableCollector()' (nodeid '5145'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\JupiterEngineExecutionContext.java [Ln:63, Col:2 - Ln:65, Col:3]
+
+Pattern 'featureEnvy' has been found on 'void valueIsNotComputedIfPresentInParent()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java [Ln:81, Col:3 - Ln:87, Col:4]
+Role 'envyMethod' fits on 'void valueIsNotComputedIfPresentInParent()' (nodeid '8240'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java [Ln:81, Col:3 - Ln:87, Col:4]
+
+Pattern 'featureEnvy' has been found on 'void valueIsNotComputedIfPresentInGrandParent()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java [Ln:89, Col:3 - Ln:95, Col:4]
+Role 'envyMethod' fits on 'void valueIsNotComputedIfPresentInGrandParent()' (nodeid '8243'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java [Ln:89, Col:3 - Ln:95, Col:4]
+
+Pattern 'featureEnvy' has been found on 'void valueFromParentIsVisible()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java [Ln:297, Col:3 - Ln:301, Col:4]
+Role 'envyMethod' fits on 'void valueFromParentIsVisible()' (nodeid '8293'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java [Ln:297, Col:3 - Ln:301, Col:4]
+
+Pattern 'featureEnvy' has been found on 'void valueFromParentCanBeOverriddenInChild()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java [Ln:303, Col:3 - Ln:312, Col:4]
+Role 'envyMethod' fits on 'void valueFromParentCanBeOverriddenInChild()' (nodeid '8294'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java [Ln:303, Col:3 - Ln:312, Col:4]
+
+Pattern 'shotgun' has been found on 'EnigmaException(String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\EnigmaException.java [Ln:16, Col:2 - Ln:18, Col:3]
+Role 'shotgunMethod' fits on 'EnigmaException(String message)' (nodeid '8902'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\EnigmaException.java [Ln:16, Col:2 - Ln:18, Col:3]
+
+Pattern 'featureEnvy' has been found on 'void resetStatics()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\TestExecutionExceptionHandlerTests.java [Ln:53, Col:2 - Ln:60, Col:3]
+Role 'envyMethod' fits on 'void resetStatics()' (nodeid '9607'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\TestExecutionExceptionHandlerTests.java [Ln:53, Col:2 - Ln:60, Col:3]
+
+Pattern 'featureEnvy' has been found on 'void severalHandlersAreCalledInOrder()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\TestExecutionExceptionHandlerTests.java [Ln:113, Col:2 - Ln:133, Col:3]
+Role 'envyMethod' fits on 'void severalHandlersAreCalledInOrder()' (nodeid '9633'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\TestExecutionExceptionHandlerTests.java [Ln:113, Col:2 - Ln:133, Col:3]
+
+Pattern 'shotgun' has been found on 'ExecutionEventRecorder executeTestsForClass(Class<?> testClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\AbstractJupiterTestEngineTests.java [Ln:31, Col:2 - Ln:33, Col:3]
+Role 'shotgunMethod' fits on 'ExecutionEventRecorder executeTestsForClass(Class<?> testClass)' (nodeid '8482'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\AbstractJupiterTestEngineTests.java [Ln:31, Col:2 - Ln:33, Col:3]
+
+Pattern 'shotgun' has been found on 'ExecutionEventRecorder executeTests(LauncherDiscoveryRequest request)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\AbstractJupiterTestEngineTests.java [Ln:35, Col:2 - Ln:40, Col:3]
+Role 'shotgunMethod' fits on 'ExecutionEventRecorder executeTests(LauncherDiscoveryRequest request)' (nodeid '8860'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\AbstractJupiterTestEngineTests.java [Ln:35, Col:2 - Ln:40, Col:3]
+
+Pattern 'shotgun' has been found on 'TestDescriptor discoverTests(LauncherDiscoveryRequest request)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\AbstractJupiterTestEngineTests.java [Ln:42, Col:2 - Ln:44, Col:3]
+Role 'shotgunMethod' fits on 'TestDescriptor discoverTests(LauncherDiscoveryRequest request)' (nodeid '7304'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\AbstractJupiterTestEngineTests.java [Ln:42, Col:2 - Ln:44, Col:3]
+
+Pattern 'featureEnvy' has been found on 'void initStatics()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestCaseWithInheritanceTests.java [Ln:41, Col:2 - Ln:48, Col:3]
+Role 'envyMethod' fits on 'void initStatics()' (nodeid '10665'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestCaseWithInheritanceTests.java [Ln:41, Col:2 - Ln:48, Col:3]
+
+Pattern 'LongFunction' has been found on 'void instancePerMethodWithNestedTestClass()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java [Ln:225, Col:2 - Ln:327, Col:3]
+Role 'longFunc' fits on 'void instancePerMethodWithNestedTestClass()' (nodeid '10887'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java [Ln:225, Col:2 - Ln:327, Col:3]
+
+Pattern 'LongFunction' has been found on 'void instancePerClassWithNestedTestClass()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java [Ln:329, Col:2 - Ln:416, Col:3]
+Role 'longFunc' fits on 'void instancePerClassWithNestedTestClass()' (nodeid '10894'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java [Ln:329, Col:2 - Ln:416, Col:3]
+
+Pattern 'LongFunction' has been found on 'void instancePerMethodOnOuterTestClassWithInstancePerClassOnNestedTestClass()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java [Ln:418, Col:2 - Ln:508, Col:3]
+Role 'longFunc' fits on 'void instancePerMethodOnOuterTestClassWithInstancePerClassOnNestedTestClass()' (nodeid '10901'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java [Ln:418, Col:2 - Ln:508, Col:3]
+
+Pattern 'shotgun' has been found on 'String postProcessTestInstanceKey(Class<?> testClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java [Ln:589, Col:2 - Ln:591, Col:3]
+Role 'shotgunMethod' fits on 'String postProcessTestInstanceKey(Class<?> testClass)' (nodeid '10861'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java [Ln:589, Col:2 - Ln:591, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<? super ExecutionEvent>[] wrappedInContainerEvents(Class<MyTestTemplateTestCase> clazz, Condition<? super ExecutionEvent>[] wrappedConditions)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestTemplateInvocationTests.java [Ln:348, Col:2 - Ln:360, Col:3]
+Role 'shotgunMethod' fits on 'Condition<? super ExecutionEvent>[] wrappedInContainerEvents(Class<MyTestTemplateTestCase> clazz, Condition<? super ExecutionEvent>[] wrappedConditions)' (nodeid '11085'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestTemplateInvocationTests.java [Ln:348, Col:2 - Ln:360, Col:3]
+
+Pattern 'shotgun' has been found on 'Object convert(Object input, String pattern, Class<?> targetClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\test\java\org\junit\jupiter\params\converter\JavaTimeArgumentConverterTests.java [Ln:114, Col:2 - Ln:121, Col:3]
+Role 'shotgunMethod' fits on 'Object convert(Object input, String pattern, Class<?> targetClass)' (nodeid '12348'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\test\java\org\junit\jupiter\params\converter\JavaTimeArgumentConverterTests.java [Ln:114, Col:2 - Ln:121, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean select(Enum<?> constant, Set<String> names)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\main\java\org\junit\jupiter\params\provider\EnumSource.java [Ln:132, Col:3 - Ln:137, Col:4]
+Role 'shotgunMethod' fits on 'boolean select(Enum<?> constant, Set<String> names)' (nodeid '12707'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\main\java\org\junit\jupiter\params\provider\EnumSource.java [Ln:132, Col:3 - Ln:137, Col:4]
+
+Pattern 'shotgun' has been found on 'Object[] array(Object[] objects)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\test\java\org\junit\jupiter\params\provider\MethodArgumentsProviderTests.java [Ln:178, Col:2 - Ln:180, Col:3]
+Role 'shotgunMethod' fits on 'Object[] array(Object[] objects)' (nodeid '13084'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\test\java\org\junit\jupiter\params\provider\MethodArgumentsProviderTests.java [Ln:178, Col:2 - Ln:180, Col:3]
+
+Pattern 'shotgun' has been found on 'Stream<Object[]> provideArguments(String[] methodNames)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\test\java\org\junit\jupiter\params\provider\MethodArgumentsProviderTests.java [Ln:182, Col:2 - Ln:184, Col:3]
+Role 'shotgunMethod' fits on 'Stream<Object[]> provideArguments(String[] methodNames)' (nodeid '13082'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\test\java\org\junit\jupiter\params\provider\MethodArgumentsProviderTests.java [Ln:182, Col:2 - Ln:184, Col:3]
+
+Pattern 'shotgun' has been found on 'List<ExecutionEvent> execute(DiscoverySelector[] selectors)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\test\java\org\junit\jupiter\params\ParameterizedTestIntegrationTests.java [Ln:178, Col:2 - Ln:180, Col:3]
+Role 'shotgunMethod' fits on 'List<ExecutionEvent> execute(DiscoverySelector[] selectors)' (nodeid '13305'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-jupiter-params\src\test\java\org\junit\jupiter\params\ParameterizedTestIntegrationTests.java [Ln:178, Col:2 - Ln:180, Col:3]
+
+Pattern 'shotgun' has been found on 'JUnitException(String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\JUnitException.java [Ln:28, Col:2 - Ln:30, Col:3]
+Role 'shotgunMethod' fits on 'JUnitException(String message)' (nodeid '3370'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\JUnitException.java [Ln:28, Col:2 - Ln:30, Col:3]
+
+Pattern 'shotgun' has been found on 'JUnitException(String message, Throwable cause)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\JUnitException.java [Ln:32, Col:2 - Ln:34, Col:3]
+Role 'shotgunMethod' fits on 'JUnitException(String message, Throwable cause)' (nodeid '3556'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\JUnitException.java [Ln:32, Col:2 - Ln:34, Col:3]
+
+Pattern 'shotgun' has been found on 'void warn(Supplier<String> messageSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\logging\Logger.java [Ln:48, Col:2 - Ln:48, Col:46]
+Role 'shotgunMethod' fits on 'void warn(Supplier<String> messageSupplier)' (nodeid '5422'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\logging\Logger.java [Ln:48, Col:2 - Ln:48, Col:46]
+
+Pattern 'shotgun' has been found on 'Logger getLogger(Class<?> clazz)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\logging\LoggerFactory.java [Ln:42, Col:2 - Ln:50, Col:3]
+Role 'shotgunMethod' fits on 'Logger getLogger(Class<?> clazz)' (nodeid '5403'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\logging\LoggerFactory.java [Ln:42, Col:2 - Ln:50, Col:3]
+
+Pattern 'shotgun' has been found on 'void log(Level level, Throwable throwable, Supplier<String> messageSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\logging\LoggerFactory.java [Ln:125, Col:3 - Ln:129, Col:4]
+Role 'shotgunMethod' fits on 'void log(Level level, Throwable throwable, Supplier<String> messageSupplier)' (nodeid '13578'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\logging\LoggerFactory.java [Ln:125, Col:3 - Ln:129, Col:4]
+
+Pattern 'featureEnvy' has been found on 'void findMethodsDelegates()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\support\ReflectionSupportTests.java [Ln:70, Col:2 - Ln:80, Col:3]
+Role 'envyMethod' fits on 'void findMethodsDelegates()' (nodeid '13854'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\support\ReflectionSupportTests.java [Ln:70, Col:2 - Ln:80, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean isAnnotated(AnnotatedElement element, Class<? extends Annotation> annotationType)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:128, Col:2 - Ln:130, Col:3]
+Role 'shotgunMethod' fits on 'boolean isAnnotated(AnnotatedElement element, Class<? extends Annotation> annotationType)' (nodeid '6725'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:128, Col:2 - Ln:130, Col:3]
+
+Pattern 'shotgun' has been found on '<A extends Annotation> Optional<A> findAnnotation(AnnotatedElement element, Class<A> annotationType)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:152, Col:2 - Ln:154, Col:3]
+Role 'shotgunMethod' fits on '<A extends Annotation> Optional<A> findAnnotation(AnnotatedElement element, Class<A> annotationType)' (nodeid '5440'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:152, Col:2 - Ln:154, Col:3]
+
+Pattern 'LongFunction' has been found on '<A extends Annotation> Optional<A> findAnnotation(AnnotatedElement element, Class<A> annotationType, Set<Annotation> visited)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:156, Col:2 - Ln:209, Col:3]
+Role 'longFunc' fits on '<A extends Annotation> Optional<A> findAnnotation(AnnotatedElement element, Class<A> annotationType, Set<Annotation> visited)' (nodeid '13938'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:156, Col:2 - Ln:209, Col:3]
+
+Pattern 'shotgun' has been found on '<A extends Annotation> List<A> findRepeatableAnnotations(AnnotatedElement element, Class<A> annotationType)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:230, Col:2 - Ln:250, Col:3]
+Role 'shotgunMethod' fits on '<A extends Annotation> List<A> findRepeatableAnnotations(AnnotatedElement element, Class<A> annotationType)' (nodeid '5416'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:230, Col:2 - Ln:250, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Field> findPublicAnnotatedFields(Class<?> clazz, Class<?> fieldType, Class<? extends Annotation> annotationType)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:320, Col:2 - Ln:332, Col:3]
+Role 'shotgunMethod' fits on 'List<Field> findPublicAnnotatedFields(Class<?> clazz, Class<?> fieldType, Class<? extends Annotation> annotationType)' (nodeid '11618'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:320, Col:2 - Ln:332, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Method> findAnnotatedMethods(Class<?> clazz, Class<? extends Annotation> annotationType, HierarchyTraversalMode traversalMode)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:337, Col:2 - Ln:344, Col:3]
+Role 'shotgunMethod' fits on 'List<Method> findAnnotatedMethods(Class<?> clazz, Class<? extends Annotation> annotationType, HierarchyTraversalMode traversalMode)' (nodeid '5529'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\AnnotationUtils.java [Ln:337, Col:2 - Ln:344, Col:3]
+
+Pattern 'shotgun' has been found on 'ClassLoader getDefaultClassLoader()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ClassLoaderUtils.java [Ln:41, Col:2 - Ln:52, Col:3]
+Role 'shotgunMethod' fits on 'ClassLoader getDefaultClassLoader()' (nodeid '8594'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ClassLoaderUtils.java [Ln:41, Col:2 - Ln:52, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Class<?>> scanForClassesInPackage(String basePackageName, Predicate<Class<?>> classFilter, Predicate<String> classNameFilter)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ClasspathScanner.java [Ln:70, Col:2 - Ln:80, Col:3]
+Role 'shotgunMethod' fits on 'List<Class<?>> scanForClassesInPackage(String basePackageName, Predicate<Class<?>> classFilter, Predicate<String> classNameFilter)' (nodeid '14174'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ClasspathScanner.java [Ln:70, Col:2 - Ln:80, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Class<?>> scanForClassesInClasspathRoot(URI root, Predicate<Class<?>> classFilter, Predicate<String> classNameFilter)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ClasspathScanner.java [Ln:82, Col:2 - Ln:89, Col:3]
+Role 'shotgunMethod' fits on 'List<Class<?>> scanForClassesInClasspathRoot(URI root, Predicate<Class<?>> classFilter, Predicate<String> classNameFilter)' (nodeid '14184'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ClasspathScanner.java [Ln:82, Col:2 - Ln:89, Col:3]
+
+Pattern 'shotgun' has been found on '<T extends Object> T getOnlyElement(Collection<T> collection)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\CollectionUtils.java [Ln:62, Col:2 - Ln:67, Col:3]
+Role 'shotgunMethod' fits on '<T extends Object> T getOnlyElement(Collection<T> collection)' (nodeid '7319'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\CollectionUtils.java [Ln:62, Col:2 - Ln:67, Col:3]
+
+Pattern 'LongFunction' has been found on 'Stream<?> toStream(Object object)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\CollectionUtils.java [Ln:110, Col:2 - Ln:150, Col:3]
+Role 'longFunc' fits on 'Stream<?> toStream(Object object)' (nodeid '5650'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\CollectionUtils.java [Ln:110, Col:2 - Ln:150, Col:3]
+
+Pattern 'shotgun' has been found on 'Stream<?> toStream(Object object)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\CollectionUtils.java [Ln:110, Col:2 - Ln:150, Col:3]
+Role 'shotgunMethod' fits on 'Stream<?> toStream(Object object)' (nodeid '5650'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\CollectionUtils.java [Ln:110, Col:2 - Ln:150, Col:3]
+
+Pattern 'shotgun' has been found on 'RuntimeException throwAsUncheckedException(Throwable t)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ExceptionUtils.java [Ln:60, Col:2 - Ln:66, Col:3]
+Role 'shotgunMethod' fits on 'RuntimeException throwAsUncheckedException(Throwable t)' (nodeid '2996'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ExceptionUtils.java [Ln:60, Col:2 - Ln:66, Col:3]
+
+Pattern 'shotgun' has been found on '<T extends Object, V extends Object> Predicate<T> where(Function<T, V> function, Predicate<? super V> predicate)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\FunctionUtils.java [Ln:48, Col:2 - Ln:52, Col:3]
+Role 'shotgunMethod' fits on '<T extends Object, V extends Object> Predicate<T> where(Function<T, V> function, Predicate<? super V> predicate)' (nodeid '14490'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\FunctionUtils.java [Ln:48, Col:2 - Ln:52, Col:3]
+
+Pattern 'shotgun' has been found on '<T extends Object> T notNull(T object, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:54, Col:2 - Ln:56, Col:3]
+Role 'shotgunMethod' fits on '<T extends Object> T notNull(T object, String message)' (nodeid '1306'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:54, Col:2 - Ln:56, Col:3]
+
+Pattern 'shotgun' has been found on '<T extends Object> T[] notEmpty(T[] array, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:86, Col:2 - Ln:88, Col:3]
+Role 'shotgunMethod' fits on '<T extends Object> T[] notEmpty(T[] array, String message)' (nodeid '1291'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:86, Col:2 - Ln:88, Col:3]
+
+Pattern 'shotgun' has been found on '<T extends Collection<?>> T notEmpty(T collection, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:122, Col:2 - Ln:126, Col:3]
+Role 'shotgunMethod' fits on '<T extends Collection<?>> T notEmpty(T collection, String message)' (nodeid '14595'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:122, Col:2 - Ln:126, Col:3]
+
+Pattern 'shotgun' has been found on '<T extends Object> T[] containsNoNullElements(T[] array, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:161, Col:2 - Ln:163, Col:3]
+Role 'shotgunMethod' fits on '<T extends Object> T[] containsNoNullElements(T[] array, String message)' (nodeid '1293'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:161, Col:2 - Ln:163, Col:3]
+
+Pattern 'shotgun' has been found on 'String notBlank(String str, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:240, Col:2 - Ln:242, Col:3]
+Role 'shotgunMethod' fits on 'String notBlank(String str, String message)' (nodeid '3197'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:240, Col:2 - Ln:242, Col:3]
+
+Pattern 'shotgun' has been found on 'void condition(boolean predicate, String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:270, Col:2 - Ln:272, Col:3]
+Role 'shotgunMethod' fits on 'void condition(boolean predicate, String message)' (nodeid '7524'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:270, Col:2 - Ln:272, Col:3]
+
+Pattern 'shotgun' has been found on 'void condition(boolean predicate, Supplier<String> messageSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:281, Col:2 - Ln:287, Col:3]
+Role 'shotgunMethod' fits on 'void condition(boolean predicate, Supplier<String> messageSupplier)' (nodeid '2829'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\Preconditions.java [Ln:281, Col:2 - Ln:287, Col:3]
+
+Pattern 'shotgun' has been found on 'PreconditionViolationException(String message)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\PreconditionViolationException.java [Ln:29, Col:2 - Ln:31, Col:3]
+Role 'shotgunMethod' fits on 'PreconditionViolationException(String message)' (nodeid '10324'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\PreconditionViolationException.java [Ln:29, Col:2 - Ln:31, Col:3]
+
+Pattern 'Blob' has been found on 'ReflectionUtils'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:68, Col:1 - Ln:1098, Col:2]
+Role 'BlobClass' fits on 'ReflectionUtils' (nodeid '12405'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:68, Col:1 - Ln:1098, Col:2]
+
+Pattern 'shotgun' has been found on '<T extends Object> T newInstance(Class<T> clazz, Object[] args)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:315, Col:2 - Ln:327, Col:3]
+Role 'shotgunMethod' fits on '<T extends Object> T newInstance(Class<T> clazz, Object[] args)' (nodeid '8337'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:315, Col:2 - Ln:327, Col:3]
+
+Pattern 'shotgun' has been found on 'Object invokeMethod(Method method, Object target, Object[] args)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:383, Col:2 - Ln:394, Col:3]
+Role 'shotgunMethod' fits on 'Object invokeMethod(Method method, Object target, Object[] args)' (nodeid '7565'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:383, Col:2 - Ln:394, Col:3]
+
+Pattern 'shotgun' has been found on 'Optional<Class<?>> loadClass(String name)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:399, Col:2 - Ln:401, Col:3]
+Role 'shotgunMethod' fits on 'Optional<Class<?>> loadClass(String name)' (nodeid '7066'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:399, Col:2 - Ln:401, Col:3]
+
+Pattern 'shotgun' has been found on 'Optional<Method> loadMethod(String fullyQualifiedMethodName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:517, Col:2 - Ln:544, Col:3]
+Role 'shotgunMethod' fits on 'Optional<Method> loadMethod(String fullyQualifiedMethodName)' (nodeid '14823'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:517, Col:2 - Ln:544, Col:3]
+
+Pattern 'shotgun' has been found on 'Optional<Method> findMethod(Class<?> clazz, String methodName, Class<?>[] parameterTypes)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:776, Col:2 - Ln:783, Col:3]
+Role 'shotgunMethod' fits on 'Optional<Method> findMethod(Class<?> clazz, String methodName, Class<?>[] parameterTypes)' (nodeid '6969'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:776, Col:2 - Ln:783, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Method> findMethods(Class<?> clazz, Predicate<Method> predicate)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:824, Col:2 - Ln:826, Col:3]
+Role 'shotgunMethod' fits on 'List<Method> findMethods(Class<?> clazz, Predicate<Method> predicate)' (nodeid '11610'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:824, Col:2 - Ln:826, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Method> findMethods(Class<?> clazz, Predicate<Method> predicate, HierarchyTraversalMode traversalMode)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:831, Col:2 - Ln:844, Col:3]
+Role 'shotgunMethod' fits on 'List<Method> findMethods(Class<?> clazz, Predicate<Method> predicate, HierarchyTraversalMode traversalMode)' (nodeid '6603'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ReflectionUtils.java [Ln:831, Col:2 - Ln:844, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean isBlank(String str)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\StringUtils.java [Ln:48, Col:2 - Ln:50, Col:3]
+Role 'shotgunMethod' fits on 'boolean isBlank(String str)' (nodeid '5445'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\StringUtils.java [Ln:48, Col:2 - Ln:50, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean isNotBlank(String str)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\StringUtils.java [Ln:60, Col:2 - Ln:62, Col:3]
+Role 'shotgunMethod' fits on 'boolean isNotBlank(String str)' (nodeid '2613'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\StringUtils.java [Ln:60, Col:2 - Ln:62, Col:3]
+
+Pattern 'LongFunction' has been found on 'String nullSafeToString(Object obj)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\StringUtils.java [Ln:135, Col:2 - Ln:170, Col:3]
+Role 'longFunc' fits on 'String nullSafeToString(Object obj)' (nodeid '2636'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\StringUtils.java [Ln:135, Col:2 - Ln:170, Col:3]
+
+Pattern 'shotgun' has been found on 'ToStringBuilder(Object obj)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ToStringBuilder.java [Ln:40, Col:2 - Ln:42, Col:3]
+Role 'shotgunMethod' fits on 'ToStringBuilder(Object obj)' (nodeid '3209'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ToStringBuilder.java [Ln:40, Col:2 - Ln:42, Col:3]
+
+Pattern 'shotgun' has been found on 'ToStringBuilder append(String name, Object value)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ToStringBuilder.java [Ln:48, Col:2 - Ln:52, Col:3]
+Role 'shotgunMethod' fits on 'ToStringBuilder append(String name, Object value)' (nodeid '3204'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ToStringBuilder.java [Ln:48, Col:2 - Ln:52, Col:3]
+
+Pattern 'shotgun' has been found on 'String toString()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ToStringBuilder.java [Ln:58, Col:2 - Ln:61, Col:3]
+Role 'shotgunMethod' fits on 'String toString()' (nodeid '3202'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-commons\src\main\java\org\junit\platform\commons\util\ToStringBuilder.java [Ln:58, Col:2 - Ln:61, Col:3]
+
+Pattern 'Blob' has been found on 'AnnotationUtilsTests'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\AnnotationUtilsTests.java [Ln:52, Col:1 - Ln:748, Col:2]
+Role 'BlobClass' fits on 'AnnotationUtilsTests' (nodeid '15119'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\AnnotationUtilsTests.java [Ln:52, Col:1 - Ln:748, Col:2]
+
+Pattern 'Blob' has been found on 'ReflectionUtilsTests'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java [Ln:63, Col:1 - Ln:1402, Col:2]
+Role 'BlobClass' fits on 'ReflectionUtilsTests' (nodeid '15824'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java [Ln:63, Col:1 - Ln:1402, Col:2]
+
+Pattern 'shotgun' has been found on 'String fqmn(Class<?> clazz, String methodName, Class<?>[] params)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java [Ln:472, Col:2 - Ln:474, Col:3]
+Role 'shotgunMethod' fits on 'String fqmn(Class<?> clazz, String methodName, Class<?>[] params)' (nodeid '15978'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java [Ln:472, Col:2 - Ln:474, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertFqmn(String fqmn)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java [Ln:484, Col:2 - Ln:486, Col:3]
+Role 'shotgunMethod' fits on 'void assertFqmn(String fqmn)' (nodeid '15976'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java [Ln:484, Col:2 - Ln:486, Col:3]
+
+Pattern 'shotgun' has been found on 'void shouldContainWhitespace(String str)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\StringUtilsTests.java [Ln:106, Col:2 - Ln:109, Col:3]
+Role 'shotgunMethod' fits on 'void shouldContainWhitespace(String str)' (nodeid '16521'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\StringUtilsTests.java [Ln:106, Col:2 - Ln:109, Col:3]
+
+Pattern 'shotgun' has been found on 'RoleModel()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\ToStringBuilderTests.java [Ln:152, Col:3 - Ln:153, Col:4]
+Role 'shotgunMethod' fits on 'RoleModel()' (nodeid '16591'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\commons\util\ToStringBuilderTests.java [Ln:152, Col:3 - Ln:153, Col:4]
+
+Pattern 'LongFunction' has been found on 'AvailableOptions()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\AvailableOptions.java [Ln:71, Col:2 - Ln:194, Col:3]
+Role 'longFunc' fits on 'AvailableOptions()' (nodeid '16825'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\AvailableOptions.java [Ln:71, Col:2 - Ln:194, Col:3]
+
+Pattern 'Blob' has been found on 'CommandLineOptions'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\CommandLineOptions.java [Ln:34, Col:1 - Ln:269, Col:2]
+Role 'BlobClass' fits on 'CommandLineOptions' (nodeid '16696'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\CommandLineOptions.java [Ln:34, Col:1 - Ln:269, Col:2]
+
+Pattern 'shotgun' has been found on 'void setScanClasspath(boolean scanClasspath)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\CommandLineOptions.java [Ln:91, Col:2 - Ln:93, Col:3]
+Role 'shotgunMethod' fits on 'void setScanClasspath(boolean scanClasspath)' (nodeid '16902'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\CommandLineOptions.java [Ln:91, Col:2 - Ln:93, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Path> getAdditionalClasspathEntries()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\CommandLineOptions.java [Ln:236, Col:2 - Ln:238, Col:3]
+Role 'shotgunMethod' fits on 'List<Path> getAdditionalClasspathEntries()' (nodeid '17044'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\CommandLineOptions.java [Ln:236, Col:2 - Ln:238, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Path> getSelectedClasspathEntries()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\CommandLineOptions.java [Ln:254, Col:2 - Ln:256, Col:3]
+Role 'shotgunMethod' fits on 'List<Path> getSelectedClasspathEntries()' (nodeid '17055'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\options\CommandLineOptions.java [Ln:254, Col:2 - Ln:256, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertOptionWithMissingRequiredArgumentThrowsException(String[] options)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java [Ln:510, Col:2 - Ln:512, Col:3]
+Role 'shotgunMethod' fits on 'void assertOptionWithMissingRequiredArgumentThrowsException(String[] options)' (nodeid '17233'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java [Ln:510, Col:2 - Ln:512, Col:3]
+
+Pattern 'shotgun' has been found on 'CommandLineOptions parseArgLine(String argLine)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java [Ln:521, Col:2 - Ln:524, Col:3]
+Role 'shotgunMethod' fits on 'CommandLineOptions parseArgLine(String argLine)' (nodeid '17224'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java [Ln:521, Col:2 - Ln:524, Col:3]
+
+Pattern 'shotgun' has been found on 'ConsoleTestExecutor(CommandLineOptions options, Supplier<Launcher> launcherSupplier)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\tasks\ConsoleTestExecutor.java [Ln:51, Col:2 - Ln:54, Col:3]
+Role 'shotgunMethod' fits on 'ConsoleTestExecutor(CommandLineOptions options, Supplier<Launcher> launcherSupplier)' (nodeid '17513'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\tasks\ConsoleTestExecutor.java [Ln:51, Col:2 - Ln:54, Col:3]
+
+Pattern 'shotgun' has been found on 'TestExecutionSummary execute(PrintWriter out)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\tasks\ConsoleTestExecutor.java [Ln:56, Col:2 - Ln:58, Col:3]
+Role 'shotgunMethod' fits on 'TestExecutionSummary execute(PrintWriter out)' (nodeid '16726'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-console\src\main\java\org\junit\platform\console\tasks\ConsoleTestExecutor.java [Ln:56, Col:2 - Ln:58, Col:3]
+
+Pattern 'shotgun' has been found on 'LauncherDiscoveryRequest convert()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\tasks\DiscoveryRequestCreatorTests.java [Ln:280, Col:2 - Ln:283, Col:3]
+Role 'shotgunMethod' fits on 'LauncherDiscoveryRequest convert()' (nodeid '18501'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\tasks\DiscoveryRequestCreatorTests.java [Ln:280, Col:2 - Ln:283, Col:3]
+
+Pattern 'shotgun' has been found on 'String readValidXmlFile(Path xmlFile)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\tasks\XmlReportsWritingListenerTests.java [Ln:422, Col:2 - Ln:426, Col:3]
+Role 'shotgunMethod' fits on 'String readValidXmlFile(Path xmlFile)' (nodeid '18776'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\tasks\XmlReportsWritingListenerTests.java [Ln:422, Col:2 - Ln:426, Col:3]
+
+Pattern 'shotgun' has been found on 'void checkTestExecutionSummaryState()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\ConsoleLauncherWrapperResult.java [Ln:41, Col:2 - Ln:45, Col:3]
+Role 'shotgunMethod' fits on 'void checkTestExecutionSummaryState()' (nodeid '19064'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\console\ConsoleLauncherWrapperResult.java [Ln:41, Col:2 - Ln:45, Col:3]
+
+Pattern 'shotgun' has been found on 'Optional<String> get(String key)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\ConfigurationParameters.java [Ln:63, Col:2 - Ln:63, Col:35]
+Role 'shotgunMethod' fits on 'Optional<String> get(String key)' (nodeid '5694'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\ConfigurationParameters.java [Ln:63, Col:2 - Ln:63, Col:35]
+
+Pattern 'shotgun' has been found on 'ClassNameFilter includeClassNamePatterns(String[] patterns)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\ClassNameFilter.java [Ln:47, Col:2 - Ln:49, Col:3]
+Role 'shotgunMethod' fits on 'ClassNameFilter includeClassNamePatterns(String[] patterns)' (nodeid '1135'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\ClassNameFilter.java [Ln:47, Col:2 - Ln:49, Col:3]
+
+Pattern 'shotgun' has been found on 'List<ClasspathRootSelector> selectClasspathRoots(Set<Path> classpathRoots)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:202, Col:2 - Ln:213, Col:3]
+Role 'shotgunMethod' fits on 'List<ClasspathRootSelector> selectClasspathRoots(Set<Path> classpathRoots)' (nodeid '7217'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:202, Col:2 - Ln:213, Col:3]
+
+Pattern 'shotgun' has been found on 'PackageSelector selectPackage(String packageName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:252, Col:2 - Ln:257, Col:3]
+Role 'shotgunMethod' fits on 'PackageSelector selectPackage(String packageName)' (nodeid '1128'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:252, Col:2 - Ln:257, Col:3]
+
+Pattern 'shotgun' has been found on 'ClassSelector selectClass(Class<?> clazz)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:265, Col:2 - Ln:268, Col:3]
+Role 'shotgunMethod' fits on 'ClassSelector selectClass(Class<?> clazz)' (nodeid '1130'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:265, Col:2 - Ln:268, Col:3]
+
+Pattern 'shotgun' has been found on 'MethodSelector selectMethod(String fullyQualifiedMethodName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:325, Col:2 - Ln:339, Col:3]
+Role 'shotgunMethod' fits on 'MethodSelector selectMethod(String fullyQualifiedMethodName)' (nodeid '9416'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:325, Col:2 - Ln:339, Col:3]
+
+Pattern 'shotgun' has been found on 'MethodSelector selectMethod(String className, String methodName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:349, Col:2 - Ln:353, Col:3]
+Role 'shotgunMethod' fits on 'MethodSelector selectMethod(String className, String methodName)' (nodeid '19394'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:349, Col:2 - Ln:353, Col:3]
+
+Pattern 'shotgun' has been found on 'MethodSelector selectMethod(Class<?> javaClass, String methodName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:386, Col:2 - Ln:390, Col:3]
+Role 'shotgunMethod' fits on 'MethodSelector selectMethod(Class<?> javaClass, String methodName)' (nodeid '7315'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:386, Col:2 - Ln:390, Col:3]
+
+Pattern 'shotgun' has been found on 'MethodSelector selectMethod(Class<?> javaClass, String methodName, String methodParameterTypes)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:408, Col:2 - Ln:413, Col:3]
+Role 'shotgunMethod' fits on 'MethodSelector selectMethod(Class<?> javaClass, String methodName, String methodParameterTypes)' (nodeid '11104'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:408, Col:2 - Ln:413, Col:3]
+
+Pattern 'shotgun' has been found on 'MethodSelector selectMethod(Class<?> javaClass, Method method)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:423, Col:2 - Ln:427, Col:3]
+Role 'shotgunMethod' fits on 'MethodSelector selectMethod(Class<?> javaClass, Method method)' (nodeid '7155'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:423, Col:2 - Ln:427, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueIdSelector selectUniqueId(UniqueId uniqueId)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:435, Col:2 - Ln:438, Col:3]
+Role 'shotgunMethod' fits on 'UniqueIdSelector selectUniqueId(UniqueId uniqueId)' (nodeid '7169'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:435, Col:2 - Ln:438, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueIdSelector selectUniqueId(String uniqueId)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:446, Col:2 - Ln:449, Col:3]
+Role 'shotgunMethod' fits on 'UniqueIdSelector selectUniqueId(String uniqueId)' (nodeid '7163'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java [Ln:446, Col:2 - Ln:449, Col:3]
+
+Pattern 'shotgun' has been found on 'String getClassName()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:88, Col:2 - Ln:90, Col:3]
+Role 'shotgunMethod' fits on 'String getClassName()' (nodeid '18568'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:88, Col:2 - Ln:90, Col:3]
+
+Pattern 'shotgun' has been found on 'String getMethodName()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:95, Col:2 - Ln:97, Col:3]
+Role 'shotgunMethod' fits on 'String getMethodName()' (nodeid '18570'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:95, Col:2 - Ln:97, Col:3]
+
+Pattern 'shotgun' has been found on 'String getMethodParameterTypes()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:113, Col:2 - Ln:115, Col:3]
+Role 'shotgunMethod' fits on 'String getMethodParameterTypes()' (nodeid '18572'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:113, Col:2 - Ln:115, Col:3]
+
+Pattern 'shotgun' has been found on 'Class<?> getJavaClass()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:127, Col:2 - Ln:130, Col:3]
+Role 'shotgunMethod' fits on 'Class<?> getJavaClass()' (nodeid '6447'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:127, Col:2 - Ln:130, Col:3]
+
+Pattern 'shotgun' has been found on 'Method getJavaMethod()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:141, Col:2 - Ln:144, Col:3]
+Role 'shotgunMethod' fits on 'Method getJavaMethod()' (nodeid '6449'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java [Ln:141, Col:2 - Ln:144, Col:3]
+
+Pattern 'shotgun' has been found on 'PackageNameFilter includePackageNames(String[] names)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\PackageNameFilter.java [Ln:41, Col:2 - Ln:43, Col:3]
+Role 'shotgunMethod' fits on 'PackageNameFilter includePackageNames(String[] names)' (nodeid '10149'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\PackageNameFilter.java [Ln:41, Col:2 - Ln:43, Col:3]
+
+Pattern 'shotgun' has been found on '<T extends DiscoverySelector> List<T> getSelectorsByType(Class<T> selectorType)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\EngineDiscoveryRequest.java [Ln:49, Col:2 - Ln:49, Col:82]
+Role 'shotgunMethod' fits on '<T extends DiscoverySelector> List<T> getSelectorsByType(Class<T> selectorType)' (nodeid '6410'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\EngineDiscoveryRequest.java [Ln:49, Col:2 - Ln:49, Col:82]
+
+Pattern 'shotgun' has been found on '<T extends DiscoveryFilter<?>> List<T> getFiltersByType(Class<T> filterType)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\EngineDiscoveryRequest.java [Ln:61, Col:2 - Ln:61, Col:79]
+Role 'shotgunMethod' fits on '<T extends DiscoveryFilter<?>> List<T> getFiltersByType(Class<T> filterType)' (nodeid '7365'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\EngineDiscoveryRequest.java [Ln:61, Col:2 - Ln:61, Col:79]
+
+Pattern 'shotgun' has been found on 'ConfigurationParameters getConfigurationParameters()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\EngineDiscoveryRequest.java [Ln:66, Col:2 - Ln:66, Col:55]
+Role 'shotgunMethod' fits on 'ConfigurationParameters getConfigurationParameters()' (nodeid '9823'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\EngineDiscoveryRequest.java [Ln:66, Col:2 - Ln:66, Col:55]
+
+Pattern 'shotgun' has been found on 'FilterResult apply(T object)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\Filter.java [Ln:104, Col:2 - Ln:104, Col:31]
+Role 'shotgunMethod' fits on 'FilterResult apply(T object)' (nodeid '7395'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\Filter.java [Ln:104, Col:2 - Ln:104, Col:31]
+
+Pattern 'shotgun' has been found on 'Predicate<T> toPredicate()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\Filter.java [Ln:111, Col:2 - Ln:113, Col:3]
+Role 'shotgunMethod' fits on 'Predicate<T> toPredicate()' (nodeid '19215'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\Filter.java [Ln:111, Col:2 - Ln:113, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean included()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\FilterResult.java [Ln:84, Col:2 - Ln:86, Col:3]
+Role 'shotgunMethod' fits on 'boolean included()' (nodeid '19616'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\FilterResult.java [Ln:84, Col:2 - Ln:86, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean excluded()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\FilterResult.java [Ln:91, Col:2 - Ln:93, Col:3]
+Role 'shotgunMethod' fits on 'boolean excluded()' (nodeid '7397'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\FilterResult.java [Ln:91, Col:2 - Ln:93, Col:3]
+
+Pattern 'shotgun' has been found on 'AbstractTestDescriptor(UniqueId uniqueId, String displayName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\AbstractTestDescriptor.java [Ln:71, Col:2 - Ln:73, Col:3]
+Role 'shotgunMethod' fits on 'AbstractTestDescriptor(UniqueId uniqueId, String displayName)' (nodeid '6294'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\AbstractTestDescriptor.java [Ln:71, Col:2 - Ln:73, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueId getUniqueId()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\AbstractTestDescriptor.java [Ln:93, Col:2 - Ln:96, Col:3]
+Role 'shotgunMethod' fits on 'UniqueId getUniqueId()' (nodeid '5658'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\AbstractTestDescriptor.java [Ln:93, Col:2 - Ln:96, Col:3]
+
+Pattern 'shotgun' has been found on 'String getDisplayName()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\AbstractTestDescriptor.java [Ln:98, Col:2 - Ln:101, Col:3]
+Role 'shotgunMethod' fits on 'String getDisplayName()' (nodeid '5954'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\AbstractTestDescriptor.java [Ln:98, Col:2 - Ln:101, Col:3]
+
+Pattern 'shotgun' has been found on 'void addChild(TestDescriptor child)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\AbstractTestDescriptor.java [Ln:128, Col:2 - Ln:133, Col:3]
+Role 'shotgunMethod' fits on 'void addChild(TestDescriptor child)' (nodeid '5668'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\AbstractTestDescriptor.java [Ln:128, Col:2 - Ln:133, Col:3]
+
+Pattern 'shotgun' has been found on 'ClassSource from(Class<?> javaClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\ClassSource.java [Ln:65, Col:2 - Ln:67, Col:3]
+Role 'shotgunMethod' fits on 'ClassSource from(Class<?> javaClass)' (nodeid '5059'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\ClassSource.java [Ln:65, Col:2 - Ln:67, Col:3]
+
+Pattern 'shotgun' has been found on 'EngineDescriptor(UniqueId uniqueId, String displayName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\EngineDescriptor.java [Ln:38, Col:2 - Ln:40, Col:3]
+Role 'shotgunMethod' fits on 'EngineDescriptor(UniqueId uniqueId, String displayName)' (nodeid '5369'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\EngineDescriptor.java [Ln:38, Col:2 - Ln:40, Col:3]
+
+Pattern 'shotgun' has been found on 'FilePosition from(int line, int column)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\FilePosition.java [Ln:51, Col:2 - Ln:53, Col:3]
+Role 'shotgunMethod' fits on 'FilePosition from(int line, int column)' (nodeid '20232'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\FilePosition.java [Ln:51, Col:2 - Ln:53, Col:3]
+
+Pattern 'shotgun' has been found on 'MethodSource from(String className, String methodName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\MethodSource.java [Ln:46, Col:2 - Ln:48, Col:3]
+Role 'shotgunMethod' fits on 'MethodSource from(String className, String methodName)' (nodeid '20297'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\MethodSource.java [Ln:46, Col:2 - Ln:48, Col:3]
+
+Pattern 'shotgun' has been found on 'MethodSource from(Method method)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\MethodSource.java [Ln:68, Col:2 - Ln:70, Col:3]
+Role 'shotgunMethod' fits on 'MethodSource from(Method method)' (nodeid '5551'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\MethodSource.java [Ln:68, Col:2 - Ln:70, Col:3]
+
+Pattern 'shotgun' has been found on 'void execute()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutor.java [Ln:50, Col:2 - Ln:52, Col:3]
+Role 'shotgunMethod' fits on 'void execute()' (nodeid '20684'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutor.java [Ln:50, Col:2 - Ln:52, Col:3]
+
+Pattern 'shotgun' has been found on 'DemoHierarchicalTestEngine(String engineId)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\DemoHierarchicalTestEngine.java [Ln:34, Col:2 - Ln:37, Col:3]
+Role 'shotgunMethod' fits on 'DemoHierarchicalTestEngine(String engineId)' (nodeid '18769'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\DemoHierarchicalTestEngine.java [Ln:34, Col:2 - Ln:37, Col:3]
+
+Pattern 'shotgun' has been found on 'DemoHierarchicalTestDescriptor addTest(String uniqueName, Runnable executeBlock)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\DemoHierarchicalTestEngine.java [Ln:48, Col:2 - Ln:50, Col:3]
+Role 'shotgunMethod' fits on 'DemoHierarchicalTestDescriptor addTest(String uniqueName, Runnable executeBlock)' (nodeid '18455'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\DemoHierarchicalTestEngine.java [Ln:48, Col:2 - Ln:50, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueId getUniqueId()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:40, Col:2 - Ln:40, Col:25]
+Role 'shotgunMethod' fits on 'UniqueId getUniqueId()' (nodeid '4953'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:40, Col:2 - Ln:40, Col:25]
+
+Pattern 'shotgun' has been found on 'String getDisplayName()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:55, Col:2 - Ln:55, Col:26]
+Role 'shotgunMethod' fits on 'String getDisplayName()' (nodeid '4958'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:55, Col:2 - Ln:55, Col:26]
+
+Pattern 'shotgun' has been found on 'Optional<TestDescriptor> getParent()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:90, Col:2 - Ln:90, Col:39]
+Role 'shotgunMethod' fits on 'Optional<TestDescriptor> getParent()' (nodeid '7184'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:90, Col:2 - Ln:90, Col:39]
+
+Pattern 'shotgun' has been found on 'Set<? extends TestDescriptor> getChildren()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:106, Col:2 - Ln:106, Col:46]
+Role 'shotgunMethod' fits on 'Set<? extends TestDescriptor> getChildren()' (nodeid '7317'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:106, Col:2 - Ln:106, Col:46]
+
+Pattern 'shotgun' has been found on 'Set<? extends TestDescriptor> getDescendants()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:116, Col:2 - Ln:123, Col:3]
+Role 'shotgunMethod' fits on 'Set<? extends TestDescriptor> getDescendants()' (nodeid '7126'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestDescriptor.java [Ln:116, Col:2 - Ln:123, Col:3]
+
+Pattern 'shotgun' has been found on 'String getId()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestEngine.java [Ln:57, Col:2 - Ln:57, Col:17]
+Role 'shotgunMethod' fits on 'String getId()' (nodeid '18860'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestEngine.java [Ln:57, Col:2 - Ln:57, Col:17]
+
+Pattern 'shotgun' has been found on 'TestExecutionResult successful()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestExecutionResult.java [Ln:68, Col:2 - Ln:70, Col:3]
+Role 'shotgunMethod' fits on 'TestExecutionResult successful()' (nodeid '18698'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestExecutionResult.java [Ln:68, Col:2 - Ln:70, Col:3]
+
+Pattern 'shotgun' has been found on 'TestExecutionResult failed(Throwable throwable)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestExecutionResult.java [Ln:88, Col:2 - Ln:90, Col:3]
+Role 'shotgunMethod' fits on 'TestExecutionResult failed(Throwable throwable)' (nodeid '18633'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestExecutionResult.java [Ln:88, Col:2 - Ln:90, Col:3]
+
+Pattern 'shotgun' has been found on 'Status getStatus()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestExecutionResult.java [Ln:100, Col:2 - Ln:102, Col:3]
+Role 'shotgunMethod' fits on 'Status getStatus()' (nodeid '17151'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestExecutionResult.java [Ln:100, Col:2 - Ln:102, Col:3]
+
+Pattern 'shotgun' has been found on 'Optional<Throwable> getThrowable()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestExecutionResult.java [Ln:107, Col:2 - Ln:109, Col:3]
+Role 'shotgunMethod' fits on 'Optional<Throwable> getThrowable()' (nodeid '17749'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestExecutionResult.java [Ln:107, Col:2 - Ln:109, Col:3]
+
+Pattern 'shotgun' has been found on 'TestTag create(String name)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestTag.java [Ln:115, Col:2 - Ln:117, Col:3]
+Role 'shotgunMethod' fits on 'TestTag create(String name)' (nodeid '5426'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\TestTag.java [Ln:115, Col:2 - Ln:117, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueId forEngine(String engineId)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:66, Col:2 - Ln:69, Col:3]
+Role 'shotgunMethod' fits on 'UniqueId forEngine(String engineId)' (nodeid '6171'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:66, Col:2 - Ln:69, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueId root(String segmentType, String value)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:79, Col:2 - Ln:83, Col:3]
+Role 'shotgunMethod' fits on 'UniqueId root(String segmentType, String value)' (nodeid '5926'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:79, Col:2 - Ln:83, Col:3]
+
+Pattern 'shotgun' has been found on 'List<Segment> getSegments()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:122, Col:2 - Ln:124, Col:3]
+Role 'shotgunMethod' fits on 'List<Segment> getSegments()' (nodeid '6558'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:122, Col:2 - Ln:124, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueId append(String segmentType, String value)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:140, Col:2 - Ln:146, Col:3]
+Role 'shotgunMethod' fits on 'UniqueId append(String segmentType, String value)' (nodeid '5656'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:140, Col:2 - Ln:146, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean equals(Object o)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:153, Col:2 - Ln:164, Col:3]
+Role 'shotgunMethod' fits on 'boolean equals(Object o)' (nodeid '7264'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:153, Col:2 - Ln:164, Col:3]
+
+Pattern 'shotgun' has been found on 'String toString()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:175, Col:2 - Ln:178, Col:3]
+Role 'shotgunMethod' fits on 'String toString()' (nodeid '4951'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:175, Col:2 - Ln:178, Col:3]
+
+Pattern 'shotgun' has been found on 'String getType()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:207, Col:3 - Ln:209, Col:4]
+Role 'shotgunMethod' fits on 'String getType()' (nodeid '6360'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:207, Col:3 - Ln:209, Col:4]
+
+Pattern 'shotgun' has been found on 'String getValue()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:214, Col:3 - Ln:216, Col:4]
+Role 'shotgunMethod' fits on 'String getValue()' (nodeid '6377'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java [Ln:214, Col:3 - Ln:216, Col:4]
+
+Pattern 'shotgun' has been found on 'void assertRecordedExecutionEventsContainsExactly(List<ExecutionEvent> executionEvents, Condition<? super ExecutionEvent>[] conditions)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:51, Col:2 - Ln:60, Col:3]
+Role 'shotgunMethod' fits on 'void assertRecordedExecutionEventsContainsExactly(List<ExecutionEvent> executionEvents, Condition<? super ExecutionEvent>[] conditions)' (nodeid '9367'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:51, Col:2 - Ln:60, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> event(Condition<? super ExecutionEvent>[] conditions)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:62, Col:2 - Ln:66, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> event(Condition<? super ExecutionEvent>[] conditions)' (nodeid '9371'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:62, Col:2 - Ln:66, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> engine()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:68, Col:2 - Ln:70, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> engine()' (nodeid '9621'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:68, Col:2 - Ln:70, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> test(String uniqueIdSubstring)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:72, Col:2 - Ln:74, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> test(String uniqueIdSubstring)' (nodeid '9373'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:72, Col:2 - Ln:74, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> test()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:80, Col:2 - Ln:82, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> test()' (nodeid '13310'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:80, Col:2 - Ln:82, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> container(Condition<ExecutionEvent> condition)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:92, Col:2 - Ln:94, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> container(Condition<ExecutionEvent> condition)' (nodeid '9625'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:92, Col:2 - Ln:94, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> dynamicTestRegistered(Condition<ExecutionEvent> condition)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:104, Col:2 - Ln:106, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> dynamicTestRegistered(Condition<ExecutionEvent> condition)' (nodeid '10184'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:104, Col:2 - Ln:106, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> displayName(String displayName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:119, Col:2 - Ln:122, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> displayName(String displayName)' (nodeid '9553'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:119, Col:2 - Ln:122, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> started()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:128, Col:2 - Ln:130, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> started()' (nodeid '9623'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:128, Col:2 - Ln:130, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> finishedWithFailure(Condition<? super Throwable> causeCondition)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:136, Col:2 - Ln:138, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> finishedWithFailure(Condition<? super Throwable> causeCondition)' (nodeid '9375'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:136, Col:2 - Ln:138, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<ExecutionEvent> finishedSuccessfully()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:149, Col:2 - Ln:151, Col:3]
+Role 'shotgunMethod' fits on 'Condition<ExecutionEvent> finishedSuccessfully()' (nodeid '9629'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventConditions.java [Ln:149, Col:2 - Ln:151, Col:3]
+
+Pattern 'shotgun' has been found on 'List<ExecutionEvent> getExecutionEvents()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:85, Col:2 - Ln:87, Col:3]
+Role 'shotgunMethod' fits on 'List<ExecutionEvent> getExecutionEvents()' (nodeid '8495'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:85, Col:2 - Ln:87, Col:3]
+
+Pattern 'shotgun' has been found on 'long getTestSkippedCount()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:101, Col:2 - Ln:103, Col:3]
+Role 'shotgunMethod' fits on 'long getTestSkippedCount()' (nodeid '8952'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:101, Col:2 - Ln:103, Col:3]
+
+Pattern 'shotgun' has been found on 'long getTestStartedCount()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:105, Col:2 - Ln:107, Col:3]
+Role 'shotgunMethod' fits on 'long getTestStartedCount()' (nodeid '8487'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:105, Col:2 - Ln:107, Col:3]
+
+Pattern 'shotgun' has been found on 'long getTestSuccessfulCount()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:113, Col:2 - Ln:115, Col:3]
+Role 'shotgunMethod' fits on 'long getTestSuccessfulCount()' (nodeid '8489'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:113, Col:2 - Ln:115, Col:3]
+
+Pattern 'shotgun' has been found on 'long getTestAbortedCount()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:117, Col:2 - Ln:119, Col:3]
+Role 'shotgunMethod' fits on 'long getTestAbortedCount()' (nodeid '8954'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:117, Col:2 - Ln:119, Col:3]
+
+Pattern 'shotgun' has been found on 'long getTestFailedCount()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:121, Col:2 - Ln:123, Col:3]
+Role 'shotgunMethod' fits on 'long getTestFailedCount()' (nodeid '8491'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:121, Col:2 - Ln:123, Col:3]
+
+Pattern 'shotgun' has been found on 'long getContainerStartedCount()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:129, Col:2 - Ln:131, Col:3]
+Role 'shotgunMethod' fits on 'long getContainerStartedCount()' (nodeid '9219'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:129, Col:2 - Ln:131, Col:3]
+
+Pattern 'shotgun' has been found on 'long getContainerFinishedCount()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:133, Col:2 - Ln:135, Col:3]
+Role 'shotgunMethod' fits on 'long getContainerFinishedCount()' (nodeid '10197'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEventRecorder.java [Ln:133, Col:2 - Ln:135, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<Throwable> message(String expectedMessage)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\TestExecutionResultConditions.java [Ln:34, Col:2 - Ln:37, Col:3]
+Role 'shotgunMethod' fits on 'Condition<Throwable> message(String expectedMessage)' (nodeid '9627'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\TestExecutionResultConditions.java [Ln:34, Col:2 - Ln:37, Col:3]
+
+Pattern 'shotgun' has been found on 'Condition<Throwable> isA(Class<? extends Throwable> expectedClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\TestExecutionResultConditions.java [Ln:43, Col:2 - Ln:45, Col:3]
+Role 'shotgunMethod' fits on 'Condition<Throwable> isA(Class<? extends Throwable> expectedClass)' (nodeid '9377'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\TestExecutionResultConditions.java [Ln:43, Col:2 - Ln:45, Col:3]
+
+Pattern 'shotgun' has been found on 'TestDescriptorStub(UniqueId uniqueId, String displayName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\TestDescriptorStub.java [Ln:21, Col:2 - Ln:23, Col:3]
+Role 'shotgunMethod' fits on 'TestDescriptorStub(UniqueId uniqueId, String displayName)' (nodeid '18641'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-engine\src\test\java\org\junit\platform\engine\test\TestDescriptorStub.java [Ln:21, Col:2 - Ln:23, Col:3]
+
+Pattern 'shotgun' has been found on 'void nope(String tag)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\engine\TestTagTests.java [Ln:95, Col:2 - Ln:97, Col:3]
+Role 'shotgunMethod' fits on 'void nope(String tag)' (nodeid '21628'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\engine\TestTagTests.java [Ln:95, Col:2 - Ln:97, Col:3]
+
+Pattern 'shotgun' has been found on 'TestPlan discover(LauncherDiscoveryRequest discoveryRequest)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\DefaultLauncher.java [Ln:79, Col:2 - Ln:83, Col:3]
+Role 'shotgunMethod' fits on 'TestPlan discover(LauncherDiscoveryRequest discoveryRequest)' (nodeid '21852'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\DefaultLauncher.java [Ln:79, Col:2 - Ln:83, Col:3]
+
+Pattern 'shotgun' has been found on 'LauncherDiscoveryRequestBuilder request()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:93, Col:2 - Ln:95, Col:3]
+Role 'shotgunMethod' fits on 'LauncherDiscoveryRequestBuilder request()' (nodeid '1126'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:93, Col:2 - Ln:95, Col:3]
+
+Pattern 'shotgun' has been found on 'LauncherDiscoveryRequestBuilder selectors(DiscoverySelector[] selectors)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:103, Col:2 - Ln:107, Col:3]
+Role 'shotgunMethod' fits on 'LauncherDiscoveryRequestBuilder selectors(DiscoverySelector[] selectors)' (nodeid '1124'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:103, Col:2 - Ln:107, Col:3]
+
+Pattern 'shotgun' has been found on 'LauncherDiscoveryRequestBuilder selectors(List<? extends DiscoverySelector> selectors)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:115, Col:2 - Ln:120, Col:3]
+Role 'shotgunMethod' fits on 'LauncherDiscoveryRequestBuilder selectors(List<? extends DiscoverySelector> selectors)' (nodeid '7219'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:115, Col:2 - Ln:120, Col:3]
+
+Pattern 'shotgun' has been found on 'LauncherDiscoveryRequestBuilder filters(Filter<?>[] filters)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:137, Col:2 - Ln:142, Col:3]
+Role 'shotgunMethod' fits on 'LauncherDiscoveryRequestBuilder filters(Filter<?>[] filters)' (nodeid '1122'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:137, Col:2 - Ln:142, Col:3]
+
+Pattern 'shotgun' has been found on 'LauncherDiscoveryRequest build()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:193, Col:2 - Ln:198, Col:3]
+Role 'shotgunMethod' fits on 'LauncherDiscoveryRequest build()' (nodeid '1120'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherDiscoveryRequestBuilder.java [Ln:193, Col:2 - Ln:198, Col:3]
+
+Pattern 'shotgun' has been found on 'Launcher create()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherFactory.java [Ln:58, Col:2 - Ln:64, Col:3]
+Role 'shotgunMethod' fits on 'Launcher create()' (nodeid '1140'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\core\LauncherFactory.java [Ln:58, Col:2 - Ln:64, Col:3]
+
+Pattern 'shotgun' has been found on 'DefaultLauncher createLauncher(TestEngine[] engines)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\launcher\core\LauncherFactoryForTestingPurposesOnly.java [Ln:22, Col:2 - Ln:24, Col:3]
+Role 'shotgunMethod' fits on 'DefaultLauncher createLauncher(TestEngine[] engines)' (nodeid '18461'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\launcher\core\LauncherFactoryForTestingPurposesOnly.java [Ln:22, Col:2 - Ln:24, Col:3]
+
+Pattern 'featureEnvy' has been found on 'void executionFinished(TestIdentifier testIdentifier, TestExecutionResult testExecutionResult)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\listeners\SummaryGeneratingListener.java [Ln:90, Col:2 - Ln:131, Col:3]
+Role 'envyMethod' fits on 'void executionFinished(TestIdentifier testIdentifier, TestExecutionResult testExecutionResult)' (nodeid '22707'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\listeners\SummaryGeneratingListener.java [Ln:90, Col:2 - Ln:131, Col:3]
+
+Pattern 'LongFunction' has been found on 'void executionFinished(TestIdentifier testIdentifier, TestExecutionResult testExecutionResult)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\listeners\SummaryGeneratingListener.java [Ln:90, Col:2 - Ln:131, Col:3]
+Role 'longFunc' fits on 'void executionFinished(TestIdentifier testIdentifier, TestExecutionResult testExecutionResult)' (nodeid '22707'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\listeners\SummaryGeneratingListener.java [Ln:90, Col:2 - Ln:131, Col:3]
+
+Pattern 'shotgun' has been found on 'TestIdentifier from(TestDescriptor testDescriptor)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:54, Col:2 - Ln:66, Col:3]
+Role 'shotgunMethod' fits on 'TestIdentifier from(TestDescriptor testDescriptor)' (nodeid '10564'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:54, Col:2 - Ln:66, Col:3]
+
+Pattern 'LongParamSize' has been found on 'TestIdentifier(String uniqueId, String displayName, TestSource source, Set<TestTag> tags, Type type, String parentId, String legacyReportingName)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:68, Col:2 - Ln:78, Col:3]
+Role 'tooManyParam' fits on 'TestIdentifier(String uniqueId, String displayName, TestSource source, Set<TestTag> tags, Type type, String parentId, String legacyReportingName)' (nodeid '22797'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:68, Col:2 - Ln:78, Col:3]
+
+Pattern 'shotgun' has been found on 'String getUniqueId()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:89, Col:2 - Ln:91, Col:3]
+Role 'shotgunMethod' fits on 'String getUniqueId()' (nodeid '10566'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:89, Col:2 - Ln:91, Col:3]
+
+Pattern 'shotgun' has been found on 'String getDisplayName()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:120, Col:2 - Ln:122, Col:3]
+Role 'shotgunMethod' fits on 'String getDisplayName()' (nodeid '17766'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:120, Col:2 - Ln:122, Col:3]
+
+Pattern 'shotgun' has been found on 'boolean isTest()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:154, Col:2 - Ln:156, Col:3]
+Role 'shotgunMethod' fits on 'boolean isTest()' (nodeid '17726'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestIdentifier.java [Ln:154, Col:2 - Ln:156, Col:3]
+
+Pattern 'shotgun' has been found on 'TestPlan from(Collection<TestDescriptor> engineDescriptors)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestPlan.java [Ln:76, Col:2 - Ln:83, Col:3]
+Role 'shotgunMethod' fits on 'TestPlan from(Collection<TestDescriptor> engineDescriptors)' (nodeid '18758'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestPlan.java [Ln:76, Col:2 - Ln:83, Col:3]
+
+Pattern 'shotgun' has been found on 'Set<TestIdentifier> getRoots()'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestPlan.java [Ln:113, Col:2 - Ln:115, Col:3]
+Role 'shotgunMethod' fits on 'Set<TestIdentifier> getRoots()' (nodeid '18873'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestPlan.java [Ln:113, Col:2 - Ln:115, Col:3]
+
+Pattern 'shotgun' has been found on 'TestIdentifier getTestIdentifier(String uniqueId)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestPlan.java [Ln:162, Col:2 - Ln:167, Col:3]
+Role 'shotgunMethod' fits on 'TestIdentifier getTestIdentifier(String uniqueId)' (nodeid '18760'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-launcher\src\main\java\org\junit\platform\launcher\TestPlan.java [Ln:162, Col:2 - Ln:167, Col:3]
+
+Pattern 'shotgun' has been found on 'JUnitPlatform(Class<?> testClass, Launcher launcher)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-runner\src\main\java\org\junit\platform\runner\JUnitPlatform.java [Ln:117, Col:2 - Ln:122, Col:3]
+Role 'shotgunMethod' fits on 'JUnitPlatform(Class<?> testClass, Launcher launcher)' (nodeid '23157'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-runner\src\main\java\org\junit\platform\runner\JUnitPlatform.java [Ln:117, Col:2 - Ln:122, Col:3]
+
+Pattern 'shotgun' has been found on '<A extends Annotation, V extends Object> V getValueFromAnnotation(Class<A> annotationClass, Function<A, V> extractor, V defaultValue)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-runner\src\main\java\org\junit\platform\runner\JUnitPlatform.java [Ln:297, Col:2 - Ln:301, Col:3]
+Role 'shotgunMethod' fits on '<A extends Annotation, V extends Object> V getValueFromAnnotation(Class<A> annotationClass, Function<A, V> extractor, V defaultValue)' (nodeid '23246'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-runner\src\main\java\org\junit\platform\runner\JUnitPlatform.java [Ln:297, Col:2 - Ln:301, Col:3]
+
+Pattern 'shotgun' has been found on 'LauncherDiscoveryRequest instantiateRunnerAndCaptureGeneratedRequest(Class<?> testClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java [Ln:673, Col:2 - Ln:682, Col:3]
+Role 'shotgunMethod' fits on 'LauncherDiscoveryRequest instantiateRunnerAndCaptureGeneratedRequest(Class<?> testClass)' (nodeid '23419'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java [Ln:673, Col:2 - Ln:682, Col:3]
+
+Pattern 'shotgun' has been found on 'JUnitPlatformProvider(ProviderParameters parameters)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-surefire-provider\src\main\java\org\junit\platform\surefire\provider\JUnitPlatformProvider.java [Ln:82, Col:2 - Ln:84, Col:3]
+Role 'shotgunMethod' fits on 'JUnitPlatformProvider(ProviderParameters parameters)' (nodeid '23722'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-surefire-provider\src\main\java\org\junit\platform\surefire\provider\JUnitPlatformProvider.java [Ln:82, Col:2 - Ln:84, Col:3]
+
+Pattern 'shotgun' has been found on 'void executionFinished(TestIdentifier testIdentifier, TestExecutionResult testExecutionResult)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-surefire-provider\src\main\java\org\junit\platform\surefire\provider\RunListenerAdapter.java [Ln:74, Col:2 - Ln:85, Col:3]
+Role 'shotgunMethod' fits on 'void executionFinished(TestIdentifier testIdentifier, TestExecutionResult testExecutionResult)' (nodeid '23817'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-surefire-provider\src\main\java\org\junit\platform\surefire\provider\RunListenerAdapter.java [Ln:74, Col:2 - Ln:85, Col:3]
+
+Pattern 'shotgun' has been found on 'ProviderParameters providerParametersMock(Class<?>[] testClasses)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-surefire-provider\src\test\java\org\junit\platform\surefire\provider\JUnitPlatformProviderTests.java [Ln:280, Col:2 - Ln:283, Col:3]
+Role 'shotgunMethod' fits on 'ProviderParameters providerParametersMock(Class<?>[] testClasses)' (nodeid '23868'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-platform-surefire-provider\src\test\java\org\junit\platform\surefire\provider\JUnitPlatformProviderTests.java [Ln:280, Col:2 - Ln:283, Col:3]
+
+Pattern 'shotgun' has been found on 'TestDescriptor discoverTests(LauncherDiscoveryRequest discoveryRequest)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java [Ln:664, Col:2 - Ln:666, Col:3]
+Role 'shotgunMethod' fits on 'TestDescriptor discoverTests(LauncherDiscoveryRequest discoveryRequest)' (nodeid '25518'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java [Ln:664, Col:2 - Ln:666, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertRunnerTestDescriptor(TestDescriptor runnerDescriptor, Class<?> testClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java [Ln:685, Col:2 - Ln:691, Col:3]
+Role 'shotgunMethod' fits on 'void assertRunnerTestDescriptor(TestDescriptor runnerDescriptor, Class<?> testClass)' (nodeid '25520'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java [Ln:685, Col:2 - Ln:691, Col:3]
+
+Pattern 'shotgun' has been found on 'void assertTestMethodDescriptor(TestDescriptor testMethodDescriptor, Class<?> testClass, String methodName, UniqueId uniqueContainerId)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java [Ln:693, Col:2 - Ln:702, Col:3]
+Role 'shotgunMethod' fits on 'void assertTestMethodDescriptor(TestDescriptor testMethodDescriptor, Class<?> testClass, String methodName, UniqueId uniqueContainerId)' (nodeid '25522'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java [Ln:693, Col:2 - Ln:702, Col:3]
+
+Pattern 'shotgun' has been found on 'LauncherDiscoveryRequest discoveryRequestForClass(Class<?> testClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java [Ln:740, Col:2 - Ln:742, Col:3]
+Role 'shotgunMethod' fits on 'LauncherDiscoveryRequest discoveryRequestForClass(Class<?> testClass)' (nodeid '25516'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java [Ln:740, Col:2 - Ln:742, Col:3]
+
+Pattern 'shotgun' has been found on 'List<ExecutionEvent> execute(Class<?> testClass)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineExecutionTests.java [Ln:491, Col:2 - Ln:495, Col:3]
+Role 'shotgunMethod' fits on 'List<ExecutionEvent> execute(Class<?> testClass)' (nodeid '25632'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineExecutionTests.java [Ln:491, Col:2 - Ln:495, Col:3]
+
+Pattern 'shotgun' has been found on 'UniqueId uniqueIdForClass(Class<?> clazz)'
+Source : C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageUniqueIdBuilder.java [Ln:30, Col:2 - Ln:32, Col:3]
+Role 'shotgunMethod' fits on 'UniqueId uniqueIdForClass(Class<?> clazz)' (nodeid '25524'), C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageUniqueIdBuilder.java [Ln:30, Col:2 - Ln:32, Col:3]

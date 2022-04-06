@@ -1,0 +1,6 @@
+SourceMeterJava
+-projectName=Junit5-V3
+-projectBaseDir=C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.2
+-resultsDir=Results
+-runFB=true
+-FBFileList=filelist.txt

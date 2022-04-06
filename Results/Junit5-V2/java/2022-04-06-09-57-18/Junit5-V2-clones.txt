@@ -1,0 +1,598 @@
+Number of Clone Classes: 135
+
+0~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-console\src\main\java\org\junit\platform\console\tasks\DiscoveryRequestCreator.java(97): 1~CloneInstance [Ln:97, Col:3 - Ln:107, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-console\src\main\java\org\junit\platform\console\tasks\DiscoveryRequestCreator.java(109): 2~CloneInstance [Ln:109, Col:3 - Ln:119, Col:4]
+
+3~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-console\src\main\java\org\junit\platform\console\options\AvailableOptions.java(129): 4~CloneInstance [Ln:129, Col:3 - Ln:143, Col:24]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-console\src\main\java\org\junit\platform\console\options\AvailableOptions.java(174): 5~CloneInstance [Ln:174, Col:3 - Ln:186, Col:24]
+
+6~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-console\src\main\java\org\junit\platform\console\options\AvailableOptions.java(129): 7~CloneInstance [Ln:129, Col:3 - Ln:139, Col:24]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-console\src\main\java\org\junit\platform\console\options\AvailableOptions.java(141): 8~CloneInstance [Ln:141, Col:3 - Ln:151, Col:24]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-console\src\main\java\org\junit\platform\console\options\AvailableOptions.java(174): 9~CloneInstance [Ln:174, Col:3 - Ln:183, Col:24]
+
+10~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(447): 11~CloneInstance [Ln:447, Col:3 - Ln:456, Col:97]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(463): 12~CloneInstance [Ln:463, Col:3 - Ln:472, Col:97]
+
+13~CloneClass [Number of Clone Instances: 4, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(147): 14~CloneInstance [Ln:147, Col:3 - Ln:157, Col:70]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(166): 15~CloneInstance [Ln:166, Col:3 - Ln:176, Col:70]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(443): 16~CloneInstance [Ln:443, Col:3 - Ln:453, Col:70]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(464): 17~CloneInstance [Ln:464, Col:3 - Ln:474, Col:70]
+
+18~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(351): 19~CloneInstance [Ln:351, Col:3 - Ln:362, Col:89]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(396): 20~CloneInstance [Ln:396, Col:3 - Ln:409, Col:107]
+
+21~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(351): 22~CloneInstance [Ln:351, Col:3 - Ln:360, Col:73]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(389): 23~CloneInstance [Ln:389, Col:3 - Ln:400, Col:75]
+
+24~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\XmlReportWriterTests.java(92): 25~CloneInstance [Ln:92, Col:3 - Ln:101, Col:20]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\XmlReportWriterTests.java(125): 26~CloneInstance [Ln:125, Col:3 - Ln:134, Col:20]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\XmlReportWriterTests.java(147): 27~CloneInstance [Ln:147, Col:3 - Ln:156, Col:20]
+
+28~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\OverloadedTestMethodTests.java(41): 29~CloneInstance [Ln:41, Col:3 - Ln:52, Col:33]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\OverloadedTestMethodTests.java(75): 30~CloneInstance [Ln:75, Col:3 - Ln:86, Col:33]
+
+31~CloneClass [Number of Clone Instances: 4, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(86): 32~CloneInstance [Ln:86, Col:3 - Ln:95, Col:54]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(110): 33~CloneInstance [Ln:110, Col:3 - Ln:119, Col:54]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(259): 34~CloneInstance [Ln:259, Col:3 - Ln:268, Col:52]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(312): 35~CloneInstance [Ln:312, Col:3 - Ln:321, Col:52]
+
+36~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(400): 37~CloneInstance [Ln:400, Col:3 - Ln:419, Col:96]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(489): 38~CloneInstance [Ln:489, Col:3 - Ln:510, Col:96]
+
+39~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestCaseWithInheritanceTests.java(54): 40~CloneInstance [Ln:54, Col:3 - Ln:63, Col:83]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestCaseWithInheritanceTests.java(86): 41~CloneInstance [Ln:86, Col:3 - Ln:95, Col:83]
+
+42~CloneClass [Number of Clone Instances: 5, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(94): 43~CloneInstance [Ln:94, Col:3 - Ln:103, Col:82]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(169): 44~CloneInstance [Ln:169, Col:3 - Ln:178, Col:82]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(232): 45~CloneInstance [Ln:232, Col:3 - Ln:241, Col:82]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(337): 46~CloneInstance [Ln:337, Col:3 - Ln:346, Col:82]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(427): 47~CloneInstance [Ln:427, Col:3 - Ln:436, Col:82]
+
+48~CloneClass [Number of Clone Instances: 3, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DefaultMethodTests.java(78): 49~CloneInstance [Ln:78, Col:3 - Ln:90, Col:5]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DefaultMethodTests.java(99): 50~CloneInstance [Ln:99, Col:3 - Ln:111, Col:5]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DefaultMethodTests.java(118): 51~CloneInstance [Ln:118, Col:3 - Ln:130, Col:5]
+
+52~CloneClass [Number of Clone Instances: 4, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(181): 53~CloneInstance [Ln:181, Col:3 - Ln:191, Col:87]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(251): 54~CloneInstance [Ln:251, Col:3 - Ln:261, Col:99]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(356): 55~CloneInstance [Ln:356, Col:3 - Ln:366, Col:99]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(446): 56~CloneInstance [Ln:446, Col:3 - Ln:456, Col:99]
+
+57~CloneClass [Number of Clone Instances: 2, Lines of Code: 27]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(108): 58~CloneInstance [Ln:108, Col:3 - Ln:134, Col:5]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(183): 59~CloneInstance [Ln:183, Col:3 - Ln:209, Col:5]
+
+60~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(346): 61~CloneInstance [Ln:346, Col:3 - Ln:357, Col:91]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(370): 62~CloneInstance [Ln:370, Col:3 - Ln:381, Col:91]
+
+63~CloneClass [Number of Clone Instances: 4, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(88): 64~CloneInstance [Ln:88, Col:3 - Ln:97, Col:45]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(206): 65~CloneInstance [Ln:206, Col:3 - Ln:215, Col:43]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(233): 66~CloneInstance [Ln:233, Col:3 - Ln:242, Col:52]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(287): 67~CloneInstance [Ln:287, Col:3 - Ln:296, Col:43]
+
+68~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\UsingTheLauncherDemo.java(37): 69~CloneInstance [Ln:37, Col:3 - Ln:47, Col:48]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\UsingTheLauncherDemo.java(58): 70~CloneInstance [Ln:58, Col:3 - Ln:68, Col:48]
+
+71~CloneClass [Number of Clone Instances: 4, Lines of Code: 15]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(68): 72~CloneInstance [Ln:68, Col:3 - Ln:82, Col:27]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(128): 73~CloneInstance [Ln:128, Col:3 - Ln:142, Col:27]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(53): 74~CloneInstance [Ln:53, Col:3 - Ln:67, Col:32]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(103): 75~CloneInstance [Ln:103, Col:3 - Ln:117, Col:32]
+
+76~CloneClass [Number of Clone Instances: 4, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(68): 77~CloneInstance [Ln:68, Col:3 - Ln:79, Col:63]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(128): 78~CloneInstance [Ln:128, Col:3 - Ln:139, Col:62]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(48): 79~CloneInstance [Ln:48, Col:3 - Ln:59, Col:72]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(98): 80~CloneInstance [Ln:98, Col:3 - Ln:109, Col:73]
+
+81~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\AssertionsDemo.java(56): 82~CloneInstance [Ln:56, Col:4 - Ln:65, Col:5]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\AssertionsDemo.java(66): 83~CloneInstance [Ln:66, Col:4 - Ln:77, Col:5]
+
+84~CloneClass [Number of Clone Instances: 3, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestTemplateInvocationTests.java(128): 85~CloneInstance [Ln:128, Col:3 - Ln:141, Col:87]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestTemplateInvocationTests.java(149): 86~CloneInstance [Ln:149, Col:3 - Ln:162, Col:97]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestTemplateInvocationTests.java(215): 87~CloneInstance [Ln:215, Col:3 - Ln:226, Col:88]
+
+88~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(484): 89~CloneInstance [Ln:484, Col:3 - Ln:494, Col:56]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(536): 90~CloneInstance [Ln:536, Col:3 - Ln:546, Col:56]
+
+91~CloneClass [Number of Clone Instances: 3, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(68): 92~CloneInstance [Ln:68, Col:3 - Ln:79, Col:47]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(208): 93~CloneInstance [Ln:208, Col:3 - Ln:219, Col:38]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(289): 94~CloneInstance [Ln:289, Col:3 - Ln:300, Col:39]
+
+95~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(348): 96~CloneInstance [Ln:348, Col:3 - Ln:360, Col:73]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(386): 97~CloneInstance [Ln:386, Col:3 - Ln:400, Col:75]
+
+98~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\descriptor\DemoClassTestDescriptor.java(45): 99~CloneInstance [Ln:45, Col:10 - Ln:62, Col:47]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\descriptor\DemoMethodTestDescriptor.java(52): 100~CloneInstance [Ln:52, Col:29 - Ln:69, Col:47]
+
+101~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-commons\src\main\java\org\junit\platform\commons\util\StringUtils.java(141): 102~CloneInstance [Ln:141, Col:5 - Ln:152, Col:6]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-commons\src\main\java\org\junit\platform\commons\util\StringUtils.java(153): 103~CloneInstance [Ln:153, Col:5 - Ln:164, Col:6]
+
+104~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\AssertionsDemo.java(114): 105~CloneInstance [Ln:114, Col:2 - Ln:124, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\AssertionsDemo.java(127): 106~CloneInstance [Ln:127, Col:2 - Ln:137, Col:3]
+
+107~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\ConsoleTestExecutorTests.java(61): 108~CloneInstance [Ln:61, Col:2 - Ln:71, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\ConsoleTestExecutorTests.java(73): 109~CloneInstance [Ln:73, Col:2 - Ln:83, Col:3]
+
+110~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java(802): 111~CloneInstance [Ln:802, Col:2 - Ln:820, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java(822): 112~CloneInstance [Ln:822, Col:2 - Ln:841, Col:3]
+
+113~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\DiscoverySelectorsTests.java(84): 114~CloneInstance [Ln:84, Col:2 - Ln:98, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\DiscoverySelectorsTests.java(113): 115~CloneInstance [Ln:113, Col:2 - Ln:127, Col:3]
+
+116~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\DiscoverySelectorsTests.java(71): 117~CloneInstance [Ln:71, Col:2 - Ln:82, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\DiscoverySelectorsTests.java(100): 118~CloneInstance [Ln:100, Col:2 - Ln:111, Col:3]
+
+119~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(343): 120~CloneInstance [Ln:343, Col:3 - Ln:355, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(357): 121~CloneInstance [Ln:357, Col:3 - Ln:369, Col:4]
+
+122~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(181): 123~CloneInstance [Ln:181, Col:3 - Ln:197, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(199): 124~CloneInstance [Ln:199, Col:3 - Ln:215, Col:4]
+
+125~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(145): 126~CloneInstance [Ln:145, Col:3 - Ln:161, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(163): 127~CloneInstance [Ln:163, Col:3 - Ln:179, Col:4]
+
+128~CloneClass [Number of Clone Instances: 4, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(302): 129~CloneInstance [Ln:302, Col:3 - Ln:314, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(316): 130~CloneInstance [Ln:316, Col:3 - Ln:327, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(371): 131~CloneInstance [Ln:371, Col:3 - Ln:382, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(384): 132~CloneInstance [Ln:384, Col:3 - Ln:395, Col:4]
+
+133~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(275): 134~CloneInstance [Ln:275, Col:3 - Ln:287, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(289): 135~CloneInstance [Ln:289, Col:3 - Ln:300, Col:4]
+
+136~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DefaultMethodTests.java(75): 137~CloneInstance [Ln:75, Col:2 - Ln:92, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DefaultMethodTests.java(94): 138~CloneInstance [Ln:94, Col:2 - Ln:113, Col:3]
+
+139~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\ExceptionHandlingTests.java(95): 140~CloneInstance [Ln:95, Col:2 - Ln:109, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\ExceptionHandlingTests.java(111): 141~CloneInstance [Ln:111, Col:2 - Ln:125, Col:3]
+
+142~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\ExceptionHandlingTests.java(50): 143~CloneInstance [Ln:50, Col:2 - Ln:63, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\ExceptionHandlingTests.java(65): 144~CloneInstance [Ln:65, Col:2 - Ln:78, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\ExceptionHandlingTests.java(80): 145~CloneInstance [Ln:80, Col:2 - Ln:93, Col:3]
+
+146~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(85): 147~CloneInstance [Ln:85, Col:3 - Ln:96, Col:52]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(109): 148~CloneInstance [Ln:109, Col:3 - Ln:120, Col:52]
+
+149~CloneClass [Number of Clone Instances: 2, Lines of Code: 26]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(198): 150~CloneInstance [Ln:198, Col:2 - Ln:223, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(279): 151~CloneInstance [Ln:279, Col:2 - Ln:304, Col:3]
+
+152~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(129): 153~CloneInstance [Ln:129, Col:2 - Ln:148, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(150): 154~CloneInstance [Ln:150, Col:2 - Ln:169, Col:3]
+
+155~CloneClass [Number of Clone Instances: 2, Lines of Code: 25]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(253): 156~CloneInstance [Ln:253, Col:2 - Ln:277, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\HierarchicalTestExecutorTests.java(306): 157~CloneInstance [Ln:306, Col:2 - Ln:330, Col:3]
+
+158~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(581): 159~CloneInstance [Ln:581, Col:4 - Ln:598, Col:85]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\runner\JUnitPlatformRunnerTests.java(617): 160~CloneInstance [Ln:617, Col:4 - Ln:634, Col:85]
+
+161~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-surefire-provider\src\test\java\org\junit\platform\surefire\provider\JUnitPlatformProviderTests.java(143): 162~CloneInstance [Ln:143, Col:2 - Ln:154, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-surefire-provider\src\test\java\org\junit\platform\surefire\provider\JUnitPlatformProviderTests.java(156): 163~CloneInstance [Ln:156, Col:2 - Ln:167, Col:3]
+
+164~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\commons\util\ClasspathScannerTests.java(72): 165~CloneInstance [Ln:72, Col:2 - Ln:82, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\commons\util\ClasspathScannerTests.java(84): 166~CloneInstance [Ln:84, Col:2 - Ln:94, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\commons\util\ClasspathScannerTests.java(96): 167~CloneInstance [Ln:96, Col:2 - Ln:106, Col:3]
+
+168~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(567): 169~CloneInstance [Ln:567, Col:2 - Ln:578, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(580): 170~CloneInstance [Ln:580, Col:2 - Ln:591, Col:3]
+
+171~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(530): 172~CloneInstance [Ln:530, Col:3 - Ln:539, Col:59]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(551): 173~CloneInstance [Ln:551, Col:3 - Ln:560, Col:59]
+
+174~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(81): 175~CloneInstance [Ln:81, Col:2 - Ln:94, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(111): 176~CloneInstance [Ln:111, Col:2 - Ln:124, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(126): 177~CloneInstance [Ln:126, Col:2 - Ln:139, Col:3]
+
+178~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(141): 179~CloneInstance [Ln:141, Col:2 - Ln:158, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(160): 180~CloneInstance [Ln:160, Col:2 - Ln:177, Col:3]
+
+181~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java(899): 182~CloneInstance [Ln:899, Col:3 - Ln:916, Col:35]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\commons\util\ReflectionUtilsTests.java(924): 183~CloneInstance [Ln:924, Col:3 - Ln:941, Col:35]
+
+184~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\DiscoveryRequestCreatorTests.java(68): 185~CloneInstance [Ln:68, Col:2 - Ln:80, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\DiscoveryRequestCreatorTests.java(82): 186~CloneInstance [Ln:82, Col:2 - Ln:94, Col:3]
+
+187~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\DiscoveryRequestCreatorTests.java(117): 188~CloneInstance [Ln:117, Col:2 - Ln:128, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\tasks\DiscoveryRequestCreatorTests.java(130): 189~CloneInstance [Ln:130, Col:2 - Ln:141, Col:3]
+
+190~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\TestPlanTests.java(25): 191~CloneInstance [Ln:25, Col:2 - Ln:38, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\TestPlanTests.java(40): 192~CloneInstance [Ln:40, Col:2 - Ln:53, Col:3]
+
+193~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(85): 194~CloneInstance [Ln:85, Col:2 - Ln:94, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(204): 195~CloneInstance [Ln:204, Col:2 - Ln:213, Col:3]
+
+196~CloneClass [Number of Clone Instances: 4, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(26): 197~CloneInstance [Ln:26, Col:2 - Ln:37, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(85): 198~CloneInstance [Ln:85, Col:2 - Ln:96, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(26): 199~CloneInstance [Ln:26, Col:2 - Ln:37, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(76): 200~CloneInstance [Ln:76, Col:2 - Ln:87, Col:3]
+
+201~CloneClass [Number of Clone Instances: 2, Lines of Code: 24]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterAllTests.java(85): 202~CloneInstance [Ln:85, Col:2 - Ln:108, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterAllTests.java(110): 203~CloneInstance [Ln:110, Col:2 - Ln:135, Col:3]
+
+204~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(220): 205~CloneInstance [Ln:220, Col:2 - Ln:229, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(236): 206~CloneInstance [Ln:236, Col:2 - Ln:245, Col:3]
+
+207~CloneClass [Number of Clone Instances: 6, Lines of Code: 14]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(312): 208~CloneInstance [Ln:312, Col:2 - Ln:325, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(332): 209~CloneInstance [Ln:332, Col:2 - Ln:345, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(352): 210~CloneInstance [Ln:352, Col:2 - Ln:365, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(372): 211~CloneInstance [Ln:372, Col:2 - Ln:385, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(392): 212~CloneInstance [Ln:392, Col:2 - Ln:406, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(413): 213~CloneInstance [Ln:413, Col:2 - Ln:426, Col:3]
+
+214~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(186): 215~CloneInstance [Ln:186, Col:2 - Ln:196, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(203): 216~CloneInstance [Ln:203, Col:2 - Ln:213, Col:3]
+
+217~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(158): 218~CloneInstance [Ln:158, Col:2 - Ln:170, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(172): 219~CloneInstance [Ln:172, Col:2 - Ln:184, Col:3]
+
+220~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(121): 221~CloneInstance [Ln:121, Col:2 - Ln:130, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\options\JOptSimpleCommandLineOptionsParserTests.java(132): 222~CloneInstance [Ln:132, Col:2 - Ln:141, Col:3]
+
+223~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\TagFilterTests.java(50): 224~CloneInstance [Ln:50, Col:2 - Ln:60, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\TagFilterTests.java(68): 225~CloneInstance [Ln:68, Col:2 - Ln:78, Col:3]
+
+226~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTrueTests.java(52): 227~CloneInstance [Ln:52, Col:2 - Ln:61, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertFalseTests.java(36): 228~CloneInstance [Ln:36, Col:2 - Ln:45, Col:3]
+
+229~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTrueTests.java(74): 230~CloneInstance [Ln:74, Col:2 - Ln:83, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertFalseTests.java(69): 231~CloneInstance [Ln:69, Col:2 - Ln:78, Col:3]
+
+232~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTrueTests.java(63): 233~CloneInstance [Ln:63, Col:2 - Ln:72, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertFalseTests.java(58): 234~CloneInstance [Ln:58, Col:2 - Ln:67, Col:3]
+
+235~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(1043): 236~CloneInstance [Ln:1043, Col:3 - Ln:1056, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(1382): 237~CloneInstance [Ln:1382, Col:3 - Ln:1395, Col:4]
+
+238~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(408): 239~CloneInstance [Ln:408, Col:2 - Ln:418, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(547): 240~CloneInstance [Ln:547, Col:2 - Ln:557, Col:3]
+
+241~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(663): 242~CloneInstance [Ln:663, Col:2 - Ln:672, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(805): 243~CloneInstance [Ln:805, Col:2 - Ln:814, Col:3]
+
+244~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(420): 245~CloneInstance [Ln:420, Col:2 - Ln:429, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(559): 246~CloneInstance [Ln:559, Col:2 - Ln:568, Col:3]
+
+247~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(431): 248~CloneInstance [Ln:431, Col:2 - Ln:441, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(710): 249~CloneInstance [Ln:710, Col:2 - Ln:721, Col:3]
+
+250~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(602): 251~CloneInstance [Ln:602, Col:2 - Ln:619, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(744): 252~CloneInstance [Ln:744, Col:2 - Ln:761, Col:3]
+
+253~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(324): 254~CloneInstance [Ln:324, Col:2 - Ln:341, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(463): 255~CloneInstance [Ln:463, Col:2 - Ln:480, Col:3]
+
+256~CloneClass [Number of Clone Instances: 3, Lines of Code: 20]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(343): 257~CloneInstance [Ln:343, Col:2 - Ln:362, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(482): 258~CloneInstance [Ln:482, Col:2 - Ln:501, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertArrayEqualsTests.java(621): 259~CloneInstance [Ln:621, Col:2 - Ln:640, Col:3]
+
+260~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsFailTests.java(88): 261~CloneInstance [Ln:88, Col:2 - Ln:99, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsFailTests.java(115): 262~CloneInstance [Ln:115, Col:2 - Ln:126, Col:3]
+
+263~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertEqualsTests.java(38): 264~CloneInstance [Ln:38, Col:2 - Ln:50, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertEqualsTests.java(89): 265~CloneInstance [Ln:89, Col:2 - Ln:101, Col:3]
+
+266~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertEqualsTests.java(67): 267~CloneInstance [Ln:67, Col:2 - Ln:80, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertEqualsTests.java(118): 268~CloneInstance [Ln:118, Col:2 - Ln:131, Col:3]
+
+269~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertEqualsTests.java(52): 270~CloneInstance [Ln:52, Col:2 - Ln:65, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertEqualsTests.java(103): 271~CloneInstance [Ln:103, Col:2 - Ln:116, Col:3]
+
+272~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java(157): 273~CloneInstance [Ln:157, Col:3 - Ln:167, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\execution\ExtensionValuesStoreTests.java(241): 274~CloneInstance [Ln:241, Col:3 - Ln:251, Col:4]
+
+275~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DiscoveryFilterApplierTests.java(39): 276~CloneInstance [Ln:39, Col:2 - Ln:58, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DiscoveryFilterApplierTests.java(82): 277~CloneInstance [Ln:82, Col:2 - Ln:101, Col:3]
+
+278~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DiscoveryFilterApplierTests.java(60): 279~CloneInstance [Ln:60, Col:2 - Ln:80, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DiscoveryFilterApplierTests.java(103): 280~CloneInstance [Ln:103, Col:2 - Ln:123, Col:3]
+
+281~CloneClass [Number of Clone Instances: 4, Lines of Code: 16]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DiscoveryFilterApplierTests.java(42): 282~CloneInstance [Ln:42, Col:3 - Ln:57, Col:58]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DiscoveryFilterApplierTests.java(63): 283~CloneInstance [Ln:63, Col:3 - Ln:78, Col:58]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DiscoveryFilterApplierTests.java(85): 284~CloneInstance [Ln:85, Col:3 - Ln:100, Col:58]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DiscoveryFilterApplierTests.java(106): 285~CloneInstance [Ln:106, Col:3 - Ln:121, Col:58]
+
+286~CloneClass [Number of Clone Instances: 2, Lines of Code: 22]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(98): 287~CloneInstance [Ln:98, Col:2 - Ln:119, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterTestExecutionCallbackTests.java(99): 288~CloneInstance [Ln:99, Col:2 - Ln:120, Col:3]
+
+289~CloneClass [Number of Clone Instances: 2, Lines of Code: 25]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(257): 290~CloneInstance [Ln:257, Col:2 - Ln:281, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(283): 291~CloneInstance [Ln:283, Col:2 - Ln:307, Col:3]
+
+292~CloneClass [Number of Clone Instances: 5, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(100): 293~CloneInstance [Ln:100, Col:3 - Ln:117, Col:43]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(259): 294~CloneInstance [Ln:259, Col:3 - Ln:277, Col:43]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(285): 295~CloneInstance [Ln:285, Col:3 - Ln:303, Col:43]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterTestExecutionCallbackTests.java(101): 296~CloneInstance [Ln:101, Col:3 - Ln:118, Col:43]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterTestExecutionCallbackTests.java(246): 297~CloneInstance [Ln:246, Col:3 - Ln:264, Col:43]
+
+298~CloneClass [Number of Clone Instances: 2, Lines of Code: 22]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(185): 299~CloneInstance [Ln:185, Col:3 - Ln:206, Col:43]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterTestExecutionCallbackTests.java(215): 300~CloneInstance [Ln:215, Col:3 - Ln:236, Col:43]
+
+301~CloneClass [Number of Clone Instances: 2, Lines of Code: 32]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(121): 302~CloneInstance [Ln:121, Col:2 - Ln:152, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterTestExecutionCallbackTests.java(122): 303~CloneInstance [Ln:122, Col:2 - Ln:153, Col:3]
+
+304~CloneClass [Number of Clone Instances: 2, Lines of Code: 40]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterEachTests.java(57): 305~CloneInstance [Ln:57, Col:2 - Ln:96, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\BeforeAndAfterTestExecutionCallbackTests.java(58): 306~CloneInstance [Ln:58, Col:2 - Ln:97, Col:3]
+
+307~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\TestExecutionExceptionHandlerTests.java(62): 308~CloneInstance [Ln:62, Col:2 - Ln:77, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\TestExecutionExceptionHandlerTests.java(96): 309~CloneInstance [Ln:96, Col:2 - Ln:111, Col:3]
+
+310~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestCaseWithInheritanceTests.java(66): 311~CloneInstance [Ln:66, Col:2 - Ln:78, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestCaseWithInheritanceTests.java(99): 312~CloneInstance [Ln:99, Col:2 - Ln:111, Col:3]
+
+313~CloneClass [Number of Clone Instances: 3, Lines of Code: 15]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DynamicNodeGenerationTests.java(98): 314~CloneInstance [Ln:98, Col:2 - Ln:112, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DynamicNodeGenerationTests.java(114): 315~CloneInstance [Ln:114, Col:2 - Ln:128, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\DynamicNodeGenerationTests.java(130): 316~CloneInstance [Ln:130, Col:2 - Ln:145, Col:3]
+
+317~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestTemplateInvocationTests.java(123): 318~CloneInstance [Ln:123, Col:2 - Ln:142, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestTemplateInvocationTests.java(144): 319~CloneInstance [Ln:144, Col:2 - Ln:163, Col:3]
+
+320~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\ConsoleLauncherTests.java(48): 321~CloneInstance [Ln:48, Col:2 - Ln:58, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\console\ConsoleLauncherTests.java(60): 322~CloneInstance [Ln:60, Col:2 - Ln:70, Col:3]
+
+323~CloneClass [Number of Clone Instances: 7, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\ParameterResolverTests.java(66): 324~CloneInstance [Ln:66, Col:2 - Ln:75, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\ParameterResolverTests.java(77): 325~CloneInstance [Ln:77, Col:2 - Ln:86, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\ParameterResolverTests.java(151): 326~CloneInstance [Ln:151, Col:2 - Ln:160, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\ParameterResolverTests.java(162): 327~CloneInstance [Ln:162, Col:2 - Ln:171, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\ParameterResolverTests.java(173): 328~CloneInstance [Ln:173, Col:2 - Ln:182, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\NestedTestClassesTests.java(42): 329~CloneInstance [Ln:42, Col:2 - Ln:52, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\NestedTestClassesTests.java(84): 330~CloneInstance [Ln:84, Col:2 - Ln:94, Col:3]
+
+331~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\ParameterResolverTests.java(88): 332~CloneInstance [Ln:88, Col:2 - Ln:108, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\extension\ParameterResolverTests.java(128): 333~CloneInstance [Ln:128, Col:2 - Ln:149, Col:3]
+
+334~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(120): 335~CloneInstance [Ln:120, Col:2 - Ln:130, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(239): 336~CloneInstance [Ln:239, Col:2 - Ln:249, Col:3]
+
+337~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(144): 338~CloneInstance [Ln:144, Col:2 - Ln:154, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(263): 339~CloneInstance [Ln:263, Col:2 - Ln:273, Col:3]
+
+340~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(132): 341~CloneInstance [Ln:132, Col:2 - Ln:142, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(251): 342~CloneInstance [Ln:251, Col:2 - Ln:261, Col:3]
+
+343~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(96): 344~CloneInstance [Ln:96, Col:2 - Ln:106, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(215): 345~CloneInstance [Ln:215, Col:2 - Ln:225, Col:3]
+
+346~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(108): 347~CloneInstance [Ln:108, Col:2 - Ln:118, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertTimeoutTests.java(227): 348~CloneInstance [Ln:227, Col:2 - Ln:237, Col:3]
+
+349~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(254): 350~CloneInstance [Ln:254, Col:2 - Ln:264, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(266): 351~CloneInstance [Ln:266, Col:2 - Ln:277, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(279): 352~CloneInstance [Ln:279, Col:2 - Ln:290, Col:3]
+
+353~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\TagFilterTests.java(96): 354~CloneInstance [Ln:96, Col:2 - Ln:107, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\TagFilterTests.java(119): 355~CloneInstance [Ln:119, Col:2 - Ln:130, Col:3]
+
+356~CloneClass [Number of Clone Instances: 2, Lines of Code: 22]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\core\DefaultLauncherTests.java(200): 357~CloneInstance [Ln:200, Col:2 - Ln:221, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\core\DefaultLauncherTests.java(263): 358~CloneInstance [Ln:263, Col:2 - Ln:284, Col:3]
+
+359~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\SingleTestExecutorTests.java(39): 360~CloneInstance [Ln:39, Col:2 - Ln:49, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\support\hierarchical\SingleTestExecutorTests.java(51): 361~CloneInstance [Ln:51, Col:2 - Ln:61, Col:3]
+
+362~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\core\DefaultLauncherTests.java(137): 363~CloneInstance [Ln:137, Col:2 - Ln:150, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\launcher\core\DefaultLauncherTests.java(152): 364~CloneInstance [Ln:152, Col:2 - Ln:165, Col:3]
+
+365~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java(35): 366~CloneInstance [Ln:35, Col:2 - Ln:45, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java(115): 367~CloneInstance [Ln:115, Col:2 - Ln:125, Col:3]
+
+368~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java(59): 369~CloneInstance [Ln:59, Col:2 - Ln:69, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java(139): 370~CloneInstance [Ln:139, Col:2 - Ln:149, Col:3]
+
+371~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java(47): 372~CloneInstance [Ln:47, Col:2 - Ln:57, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java(127): 373~CloneInstance [Ln:127, Col:2 - Ln:137, Col:3]
+
+374~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java(71): 375~CloneInstance [Ln:71, Col:2 - Ln:81, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssumptionsTests.java(151): 376~CloneInstance [Ln:151, Col:2 - Ln:161, Col:3]
+
+377~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(39): 378~CloneInstance [Ln:39, Col:2 - Ln:56, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(98): 379~CloneInstance [Ln:98, Col:2 - Ln:116, Col:3]
+
+380~CloneClass [Number of Clone Instances: 2, Lines of Code: 26]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(58): 381~CloneInstance [Ln:58, Col:2 - Ln:83, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(118): 382~CloneInstance [Ln:118, Col:2 - Ln:143, Col:3]
+
+383~CloneClass [Number of Clone Instances: 2, Lines of Code: 36]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(39): 384~CloneInstance [Ln:39, Col:2 - Ln:74, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(89): 385~CloneInstance [Ln:89, Col:2 - Ln:124, Col:3]
+
+386~CloneClass [Number of Clone Instances: 4, Lines of Code: 19]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(60): 387~CloneInstance [Ln:60, Col:3 - Ln:79, Col:63]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\ClassNameFilterTests.java(120): 388~CloneInstance [Ln:120, Col:3 - Ln:139, Col:62]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(41): 389~CloneInstance [Ln:41, Col:3 - Ln:59, Col:72]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\platform-tests\src\test\java\org\junit\platform\engine\discovery\PackageNameFilterTests.java(91): 390~CloneInstance [Ln:91, Col:3 - Ln:109, Col:73]
+
+391~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertLinesMatchTests.java(140): 392~CloneInstance [Ln:140, Col:2 - Ln:151, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertLinesMatchTests.java(153): 393~CloneInstance [Ln:153, Col:2 - Ln:164, Col:3]
+
+394~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertLinesMatchTests.java(112): 395~CloneInstance [Ln:112, Col:2 - Ln:124, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\api\AssertionsAssertLinesMatchTests.java(166): 396~CloneInstance [Ln:166, Col:2 - Ln:178, Col:3]
+
+397~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(288): 398~CloneInstance [Ln:288, Col:2 - Ln:303, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineDiscoveryTests.java(305): 399~CloneInstance [Ln:305, Col:2 - Ln:320, Col:3]
+
+400~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(505): 401~CloneInstance [Ln:505, Col:2 - Ln:514, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(516): 402~CloneInstance [Ln:516, Col:2 - Ln:525, Col:3]
+
+403~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(527): 404~CloneInstance [Ln:527, Col:2 - Ln:537, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\discovery\DiscoverySelectorResolverTests.java(539): 405~CloneInstance [Ln:539, Col:2 - Ln:549, Col:3]
+
+406~CloneClass [Number of Clone Instances: 2, Lines of Code: 62]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(230): 407~CloneInstance [Ln:230, Col:3 - Ln:291, Col:52]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(425): 408~CloneInstance [Ln:425, Col:3 - Ln:486, Col:52]
+
+409~CloneClass [Number of Clone Instances: 3, Lines of Code: 57]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(230): 410~CloneInstance [Ln:230, Col:3 - Ln:286, Col:5]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(335): 411~CloneInstance [Ln:335, Col:3 - Ln:391, Col:5]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\test\java\org\junit\jupiter\engine\TestInstanceLifecycleTests.java(425): 412~CloneInstance [Ln:425, Col:3 - Ln:481, Col:5]
+
+413~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineExecutionTests.java(221): 414~CloneInstance [Ln:221, Col:2 - Ln:239, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\test\java\org\junit\vintage\engine\VintageTestEngineExecutionTests.java(241): 415~CloneInstance [Ln:241, Col:2 - Ln:259, Col:3]
+
+416~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\testinterface\TestLifecycleLogger.java(39): 417~CloneInstance [Ln:39, Col:2 - Ln:49, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\testinterface\TestLifecycleLogger.java(51): 418~CloneInstance [Ln:51, Col:2 - Ln:61, Col:3]
+
+419~CloneClass [Number of Clone Instances: 4, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\ClasspathResourceSource.java(108): 420~CloneInstance [Ln:108, Col:2 - Ln:119, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\FileSource.java(103): 421~CloneInstance [Ln:103, Col:2 - Ln:113, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\ClassSource.java(135): 422~CloneInstance [Ln:135, Col:2 - Ln:145, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java(223): 423~CloneInstance [Ln:223, Col:3 - Ln:234, Col:4]
+
+424~CloneClass [Number of Clone Instances: 4, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\DirectorySource.java(77): 425~CloneInstance [Ln:77, Col:2 - Ln:87, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\extension\ExtensionContext.java(423): 426~CloneInstance [Ln:423, Col:3 - Ln:433, Col:4]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\CompositeTestSource.java(70): 427~CloneInstance [Ln:70, Col:2 - Ln:80, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\UniqueId.java(153): 428~CloneInstance [Ln:153, Col:2 - Ln:164, Col:3]
+
+429~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\main\java\org\junit\vintage\engine\discovery\ClasspathRootSelectorResolver.java(32): 430~CloneInstance [Ln:32, Col:2 - Ln:42, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-vintage-engine\src\main\java\org\junit\vintage\engine\discovery\PackageNameSelectorResolver.java(32): 431~CloneInstance [Ln:32, Col:2 - Ln:42, Col:3]
+
+432~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\support\descriptor\MethodSource.java(134): 433~CloneInstance [Ln:134, Col:2 - Ln:143, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\MethodSelector.java(146): 434~CloneInstance [Ln:146, Col:2 - Ln:155, Col:3]
+
+435~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\test\java\org\junit\platform\engine\test\event\ExecutionEvent.java(95): 436~CloneInstance [Ln:95, Col:2 - Ln:104, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-engine\src\main\java\org\junit\jupiter\engine\execution\DefaultParameterContext.java(51): 437~CloneInstance [Ln:51, Col:2 - Ln:60, Col:3]
+
+438~CloneClass [Number of Clone Instances: 3, Lines of Code: 13]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\DynamicTestsDemo.java(47): 439~CloneInstance [Ln:47, Col:2 - Ln:59, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\DynamicTestsDemo.java(61): 440~CloneInstance [Ln:61, Col:2 - Ln:73, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\documentation\src\test\java\example\testinterface\TestInterfaceDynamicTestsDemo.java(26): 441~CloneInstance [Ln:26, Col:2 - Ln:38, Col:3]
+
+442~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(283): 443~CloneInstance [Ln:283, Col:2 - Ln:298, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(316): 444~CloneInstance [Ln:316, Col:2 - Ln:331, Col:3]
+
+445~CloneClass [Number of Clone Instances: 6, Lines of Code: 15]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(171): 446~CloneInstance [Ln:171, Col:2 - Ln:185, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(187): 447~CloneInstance [Ln:187, Col:2 - Ln:201, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(203): 448~CloneInstance [Ln:203, Col:2 - Ln:217, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(219): 449~CloneInstance [Ln:219, Col:2 - Ln:233, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(235): 450~CloneInstance [Ln:235, Col:2 - Ln:249, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(251): 451~CloneInstance [Ln:251, Col:2 - Ln:265, Col:3]
+
+452~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(267): 453~CloneInstance [Ln:267, Col:2 - Ln:281, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(300): 454~CloneInstance [Ln:300, Col:2 - Ln:314, Col:3]
+
+455~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertIterableEquals.java(92): 456~CloneInstance [Ln:92, Col:2 - Ln:101, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-jupiter-api\src\main\java\org\junit\jupiter\api\AssertArrayEquals.java(399): 457~CloneInstance [Ln:399, Col:2 - Ln:408, Col:3]
+
+458~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java(124): 459~CloneInstance [Ln:124, Col:2 - Ln:134, Col:3]
+C:\Users\Sokaina\Downloads\Versiones-Junit5\junit5-r5.0.1\junit-platform-engine\src\main\java\org\junit\platform\engine\discovery\DiscoverySelectors.java(166): 460~CloneInstance [Ln:166, Col:2 - Ln:177, Col:3]
+

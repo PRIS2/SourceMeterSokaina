@@ -1,0 +1,22 @@
+[2022-04-06 09:58:36] Start:FindBugsTask
+Exception in thread "main" java.io.FileNotFoundException: filelist.txt (El sistema no puede encontrar el archivo especificado)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at edu.umd.cs.findbugs.charsets.UTF8.fileReader(UTF8.java:97)
+	at edu.umd.cs.findbugs.TextUICommandLine.handleAnalyzeFromFile(TextUICommandLine.java:762)
+	at edu.umd.cs.findbugs.TextUICommandLine.handleOptionWithArgument(TextUICommandLine.java:553)
+	at edu.umd.cs.findbugs.config.CommandLine.parse(CommandLine.java:334)
+	at edu.umd.cs.findbugs.config.CommandLine.parse(CommandLine.java:298)
+	at edu.umd.cs.findbugs.FindBugs.processCommandLine(FindBugs.java:345)
+	at edu.umd.cs.findbugs.FindBugs2.main(FindBugs2.java:1221)
+	at edu.umd.cs.findbugs.LaunchAppropriateUI.launch(LaunchAppropriateUI.java:106)
+	at edu.umd.cs.findbugs.LaunchAppropriateUI.main(LaunchAppropriateUI.java:198)
+FindBugs2Graph 10.0.0 (Build:f8fa7a1c28) - (C) 2001-2021 FrontEndART Ltd.
+Integrated 3rd party tool(s): SonarQube
+Loading LIM ASG file "C:\Users\Sokaina\Downloads\SourceMeter-10.0.0-x64-Windows\Java\Results\Junit5-V2\java\2022-04-06-09-57-18\sourcemeter\asg\Junit5-V2.lim"
+Loading filter file "C:\Users\Sokaina\Downloads\SourceMeter-10.0.0-x64-Windows\Java\Results\Junit5-V2\java\2022-04-06-09-57-18\sourcemeter\asg\Junit5-V2.flim"
+Using configuration: "Default"
+ERROR: Exception at parse C:\Users\Sokaina\Downloads\SourceMeter-10.0.0-x64-Windows\Java\Results\Junit5-V2\java\2022-04-06-09-57-18\sourcemeter\temp\Junit5-V2-FindBugs.xml file: unable to open primary document entity 'C:\Users\Sokaina\Downloads\SourceMeter-10.0.0-x64-Windows\Java\Results\Junit5-V2\java\2022-04-06-09-57-18\sourcemeter\temp\Junit5-V2-FindBugs.xml'
+[2022-04-06 09:58:42] End:FindBugsTask Result:OK
